@@ -89,7 +89,7 @@
     "o:media": [],
     "o:modified": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2020-02-17T23:17:55+00:00"
+        "@value": "2020-06-26T12:28:37+00:00"
     },
     "o:owner": {
         "@id": "https://diyhistory.org/public/dalab/api/users/3",
