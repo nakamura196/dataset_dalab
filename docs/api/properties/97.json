@@ -1,0 +1,14 @@
+{
+    "@context": "https://diyhistory.org/public/dalab/api-context",
+    "@id": "https://diyhistory.org/public/dalab/api/properties/97",
+    "@type": "o:Property",
+    "o:comment": null,
+    "o:id": 97,
+    "o:label": "handle",
+    "o:local_name": "handle",
+    "o:term": "bibo:handle",
+    "o:vocabulary": {
+        "@id": "https://diyhistory.org/public/dalab/api/vocabularies/3",
+        "o:id": 3
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://diyhistory.org/public/dalab/api-context",
+    "@id": "https://diyhistory.org/public/dalab/api/properties/120",
+    "@type": "o:Property",
+    "o:comment": null,
+    "o:id": 120,
+    "o:label": "upc",
+    "o:local_name": "upc",
+    "o:term": "bibo:upc",
+    "o:vocabulary": {
+        "@id": "https://diyhistory.org/public/dalab/api/vocabularies/3",
+        "o:id": 3
+    }
+}

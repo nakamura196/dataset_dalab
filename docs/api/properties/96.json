@@ -1,0 +1,14 @@
+{
+    "@context": "https://diyhistory.org/public/dalab/api-context",
+    "@id": "https://diyhistory.org/public/dalab/api/properties/96",
+    "@type": "o:Property",
+    "o:comment": null,
+    "o:id": 96,
+    "o:label": "gtin14",
+    "o:local_name": "gtin14",
+    "o:term": "bibo:gtin14",
+    "o:vocabulary": {
+        "@id": "https://diyhistory.org/public/dalab/api/vocabularies/3",
+        "o:id": 3
+    }
+}

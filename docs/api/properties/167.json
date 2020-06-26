@@ -1,0 +1,14 @@
+{
+    "@context": "https://diyhistory.org/public/dalab/api-context",
+    "@id": "https://diyhistory.org/public/dalab/api/properties/167",
+    "@type": "o:Property",
+    "o:comment": "A project this person has previously worked on.",
+    "o:id": 167,
+    "o:label": "past project",
+    "o:local_name": "pastProject",
+    "o:term": "foaf:pastProject",
+    "o:vocabulary": {
+        "@id": "https://diyhistory.org/public/dalab/api/vocabularies/4",
+        "o:id": 4
+    }
+}

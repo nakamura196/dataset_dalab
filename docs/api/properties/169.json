@@ -1,0 +1,14 @@
+{
+    "@context": "https://diyhistory.org/public/dalab/api-context",
+    "@id": "https://diyhistory.org/public/dalab/api/properties/169",
+    "@type": "o:Property",
+    "o:comment": "A logo representing some thing.",
+    "o:id": 169,
+    "o:label": "logo",
+    "o:local_name": "logo",
+    "o:term": "foaf:logo",
+    "o:vocabulary": {
+        "@id": "https://diyhistory.org/public/dalab/api/vocabularies/4",
+        "o:id": 4
+    }
+}

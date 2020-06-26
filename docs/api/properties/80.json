@@ -1,0 +1,14 @@
+{
+    "@context": "https://diyhistory.org/public/dalab/api-context",
+    "@id": "https://diyhistory.org/public/dalab/api/properties/80",
+    "@type": "o:Property",
+    "o:comment": "Relates a review document to a reviewed thing (resource, item, etc.).",
+    "o:id": 80,
+    "o:label": "review of",
+    "o:local_name": "reviewOf",
+    "o:term": "bibo:reviewOf",
+    "o:vocabulary": {
+        "@id": "https://diyhistory.org/public/dalab/api/vocabularies/3",
+        "o:id": 3
+    }
+}

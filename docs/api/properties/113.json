@@ -1,0 +1,14 @@
+{
+    "@context": "https://diyhistory.org/public/dalab/api-context",
+    "@id": "https://diyhistory.org/public/dalab/api/properties/113",
+    "@type": "o:Property",
+    "o:comment": null,
+    "o:id": 113,
+    "o:label": "pmid",
+    "o:local_name": "pmid",
+    "o:term": "bibo:pmid",
+    "o:vocabulary": {
+        "@id": "https://diyhistory.org/public/dalab/api/vocabularies/3",
+        "o:id": 3
+    }
+}

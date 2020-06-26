@@ -1,0 +1,14 @@
+{
+    "@context": "https://diyhistory.org/public/dalab/api-context",
+    "@id": "https://diyhistory.org/public/dalab/api/properties/104",
+    "@type": "o:Property",
+    "o:comment": null,
+    "o:id": 104,
+    "o:label": "lccn",
+    "o:local_name": "lccn",
+    "o:term": "bibo:lccn",
+    "o:vocabulary": {
+        "@id": "https://diyhistory.org/public/dalab/api/vocabularies/3",
+        "o:id": 3
+    }
+}

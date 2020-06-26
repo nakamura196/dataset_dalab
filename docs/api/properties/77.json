@@ -1,0 +1,14 @@
+{
+    "@context": "https://diyhistory.org/public/dalab/api-context",
+    "@id": "https://diyhistory.org/public/dalab/api/properties/77",
+    "@type": "o:Property",
+    "o:comment": "An agent that receives a communication document.",
+    "o:id": 77,
+    "o:label": "recipient",
+    "o:local_name": "recipient",
+    "o:term": "bibo:recipient",
+    "o:vocabulary": {
+        "@id": "https://diyhistory.org/public/dalab/api/vocabularies/3",
+        "o:id": 3
+    }
+}

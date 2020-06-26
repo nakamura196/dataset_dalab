@@ -1,0 +1,14 @@
+{
+    "@context": "https://diyhistory.org/public/dalab/api-context",
+    "@id": "https://diyhistory.org/public/dalab/api/properties/101",
+    "@type": "o:Property",
+    "o:comment": null,
+    "o:id": 101,
+    "o:label": "isbn13",
+    "o:local_name": "isbn13",
+    "o:term": "bibo:isbn13",
+    "o:vocabulary": {
+        "@id": "https://diyhistory.org/public/dalab/api/vocabularies/3",
+        "o:id": 3
+    }
+}

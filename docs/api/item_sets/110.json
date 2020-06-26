@@ -1,0 +1,39 @@
+{
+    "@context": "https://diyhistory.org/public/dalab/api-context",
+    "@id": "https://diyhistory.org/public/dalab/api/item_sets/110",
+    "@type": "o:ItemSet",
+    "dcterms:title": [
+        {
+            "@value": "日比谷図書文化館, 千代田区(02/01/2020)",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2020-02-17T03:48:58+00:00"
+    },
+    "o:id": 110,
+    "o:is_open": false,
+    "o:is_public": true,
+    "o:items": {
+        "@id": "https://diyhistory.org/public/dalab/api/items?item_set_id=110"
+    },
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2020-02-17T03:50:32+00:00"
+    },
+    "o:owner": {
+        "@id": "https://diyhistory.org/public/dalab/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": {
+        "@id": "https://diyhistory.org/public/dalab/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:thumbnail": null,
+    "o:title": "日比谷図書文化館, 千代田区(02/01/2020)"
+}

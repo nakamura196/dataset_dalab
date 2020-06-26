@@ -1,0 +1,14 @@
+{
+    "@context": "https://diyhistory.org/public/dalab/api-context",
+    "@id": "https://diyhistory.org/public/dalab/api/properties/8",
+    "@type": "o:Property",
+    "o:comment": "The nature or genre of the resource.",
+    "o:id": 8,
+    "o:label": "Type",
+    "o:local_name": "type",
+    "o:term": "dcterms:type",
+    "o:vocabulary": {
+        "@id": "https://diyhistory.org/public/dalab/api/vocabularies/1",
+        "o:id": 1
+    }
+}

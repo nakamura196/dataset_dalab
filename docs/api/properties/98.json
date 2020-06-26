@@ -1,0 +1,14 @@
+{
+    "@context": "https://diyhistory.org/public/dalab/api-context",
+    "@id": "https://diyhistory.org/public/dalab/api/properties/98",
+    "@type": "o:Property",
+    "o:comment": null,
+    "o:id": 98,
+    "o:label": "identifier",
+    "o:local_name": "identifier",
+    "o:term": "bibo:identifier",
+    "o:vocabulary": {
+        "@id": "https://diyhistory.org/public/dalab/api/vocabularies/3",
+        "o:id": 3
+    }
+}

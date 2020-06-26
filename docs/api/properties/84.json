@@ -1,0 +1,14 @@
+{
+    "@context": "https://diyhistory.org/public/dalab/api-context",
+    "@id": "https://diyhistory.org/public/dalab/api/properties/84",
+    "@type": "o:Property",
+    "o:comment": "Relates a translated document to the original document.",
+    "o:id": 84,
+    "o:label": "translation of",
+    "o:local_name": "translationOf",
+    "o:term": "bibo:translationOf",
+    "o:vocabulary": {
+        "@id": "https://diyhistory.org/public/dalab/api/vocabularies/3",
+        "o:id": 3
+    }
+}

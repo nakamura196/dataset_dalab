@@ -1,0 +1,14 @@
+{
+    "@context": "https://diyhistory.org/public/dalab/api-context",
+    "@id": "https://diyhistory.org/public/dalab/api/properties/90",
+    "@type": "o:Property",
+    "o:comment": null,
+    "o:id": 90,
+    "o:label": "coden",
+    "o:local_name": "coden",
+    "o:term": "bibo:coden",
+    "o:vocabulary": {
+        "@id": "https://diyhistory.org/public/dalab/api/vocabularies/3",
+        "o:id": 3
+    }
+}

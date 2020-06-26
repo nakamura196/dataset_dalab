@@ -1,0 +1,14 @@
+{
+    "@context": "https://diyhistory.org/public/dalab/api-context",
+    "@id": "https://diyhistory.org/public/dalab/api/properties/170",
+    "@type": "o:Property",
+    "o:comment": "A topic of some page or document.",
+    "o:id": 170,
+    "o:label": "topic",
+    "o:local_name": "topic",
+    "o:term": "foaf:topic",
+    "o:vocabulary": {
+        "@id": "https://diyhistory.org/public/dalab/api/vocabularies/4",
+        "o:id": 4
+    }
+}

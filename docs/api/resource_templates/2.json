@@ -1,0 +1,148 @@
+{
+    "@context": "https://diyhistory.org/public/dalab/api-context",
+    "@id": "https://diyhistory.org/public/dalab/api/resource_templates/2",
+    "@type": "o:ResourceTemplate",
+    "o:description_property": null,
+    "o:id": 2,
+    "o:label": "dalab",
+    "o:owner": {
+        "@id": "https://diyhistory.org/public/dalab/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template_property": [
+        {
+            "o:alternate_comment": null,
+            "o:alternate_label": null,
+            "o:data_type": null,
+            "o:is_private": false,
+            "o:is_required": false,
+            "o:property": {
+                "@id": "https://diyhistory.org/public/dalab/api/properties/10",
+                "o:id": 10
+            }
+        },
+        {
+            "o:alternate_comment": null,
+            "o:alternate_label": null,
+            "o:data_type": null,
+            "o:is_private": false,
+            "o:is_required": false,
+            "o:property": {
+                "@id": "https://diyhistory.org/public/dalab/api/properties/1",
+                "o:id": 1
+            }
+        },
+        {
+            "o:alternate_comment": null,
+            "o:alternate_label": null,
+            "o:data_type": null,
+            "o:is_private": false,
+            "o:is_required": false,
+            "o:property": {
+                "@id": "https://diyhistory.org/public/dalab/api/properties/40",
+                "o:id": 40
+            }
+        },
+        {
+            "o:alternate_comment": null,
+            "o:alternate_label": null,
+            "o:data_type": null,
+            "o:is_private": false,
+            "o:is_required": false,
+            "o:property": {
+                "@id": "https://diyhistory.org/public/dalab/api/properties/20",
+                "o:id": 20
+            }
+        },
+        {
+            "o:alternate_comment": null,
+            "o:alternate_label": null,
+            "o:data_type": "uri",
+            "o:is_private": false,
+            "o:is_required": false,
+            "o:property": {
+                "@id": "https://diyhistory.org/public/dalab/api/properties/15",
+                "o:id": 15
+            }
+        },
+        {
+            "o:alternate_comment": null,
+            "o:alternate_label": null,
+            "o:data_type": null,
+            "o:is_private": false,
+            "o:is_required": false,
+            "o:property": {
+                "@id": "https://diyhistory.org/public/dalab/api/properties/3",
+                "o:id": 3
+            }
+        },
+        {
+            "o:alternate_comment": null,
+            "o:alternate_label": null,
+            "o:data_type": null,
+            "o:is_private": false,
+            "o:is_required": false,
+            "o:property": {
+                "@id": "https://diyhistory.org/public/dalab/api/properties/25",
+                "o:id": 25
+            }
+        },
+        {
+            "o:alternate_comment": null,
+            "o:alternate_label": null,
+            "o:data_type": null,
+            "o:is_private": false,
+            "o:is_required": false,
+            "o:property": {
+                "@id": "https://diyhistory.org/public/dalab/api/properties/4",
+                "o:id": 4
+            }
+        },
+        {
+            "o:alternate_comment": null,
+            "o:alternate_label": null,
+            "o:data_type": null,
+            "o:is_private": true,
+            "o:is_required": false,
+            "o:property": {
+                "@id": "https://diyhistory.org/public/dalab/api/properties/116",
+                "o:id": 116
+            }
+        },
+        {
+            "o:alternate_comment": null,
+            "o:alternate_label": null,
+            "o:data_type": null,
+            "o:is_private": false,
+            "o:is_required": false,
+            "o:property": {
+                "@id": "https://diyhistory.org/public/dalab/api/properties/2",
+                "o:id": 2
+            }
+        },
+        {
+            "o:alternate_comment": null,
+            "o:alternate_label": null,
+            "o:data_type": null,
+            "o:is_private": false,
+            "o:is_required": false,
+            "o:property": {
+                "@id": "https://diyhistory.org/public/dalab/api/properties/5",
+                "o:id": 5
+            }
+        },
+        {
+            "o:alternate_comment": null,
+            "o:alternate_label": null,
+            "o:data_type": "uri",
+            "o:is_private": false,
+            "o:is_required": false,
+            "o:property": {
+                "@id": "https://diyhistory.org/public/dalab/api/properties/13",
+                "o:id": 13
+            }
+        }
+    ],
+    "o:title_property": null
+}

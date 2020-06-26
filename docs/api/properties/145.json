@@ -1,0 +1,14 @@
+{
+    "@context": "https://diyhistory.org/public/dalab/api-context",
+    "@id": "https://diyhistory.org/public/dalab/api/properties/145",
+    "@type": "o:Property",
+    "o:comment": "The family name of some person.",
+    "o:id": 145,
+    "o:label": "familyName",
+    "o:local_name": "familyName",
+    "o:term": "foaf:familyName",
+    "o:vocabulary": {
+        "@id": "https://diyhistory.org/public/dalab/api/vocabularies/4",
+        "o:id": 4
+    }
+}

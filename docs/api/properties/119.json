@@ -1,0 +1,14 @@
+{
+    "@context": "https://diyhistory.org/public/dalab/api-context",
+    "@id": "https://diyhistory.org/public/dalab/api/properties/119",
+    "@type": "o:Property",
+    "o:comment": "The suffix of a name",
+    "o:id": 119,
+    "o:label": "suffix name",
+    "o:local_name": "suffixName",
+    "o:term": "bibo:suffixName",
+    "o:vocabulary": {
+        "@id": "https://diyhistory.org/public/dalab/api/vocabularies/3",
+        "o:id": 3
+    }
+}

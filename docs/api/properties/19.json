@@ -1,0 +1,14 @@
+{
+    "@context": "https://diyhistory.org/public/dalab/api-context",
+    "@id": "https://diyhistory.org/public/dalab/api/properties/19",
+    "@type": "o:Property",
+    "o:comment": "A summary of the resource.",
+    "o:id": 19,
+    "o:label": "Abstract",
+    "o:local_name": "abstract",
+    "o:term": "dcterms:abstract",
+    "o:vocabulary": {
+        "@id": "https://diyhistory.org/public/dalab/api/vocabularies/1",
+        "o:id": 1
+    }
+}

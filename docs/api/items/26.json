@@ -1,0 +1,185 @@
+{
+    "@context": "https://diyhistory.org/public/dalab/api-context",
+    "@id": "https://diyhistory.org/public/dalab/api/items/26",
+    "@type": "o:Item",
+    "bibo:shortDescription": [
+        {
+            "@value": "PDだけデジタル化対象",
+            "is_public": false,
+            "property_id": 116,
+            "property_label": "shortDescription",
+            "type": "literal"
+        },
+        {
+            "@value": "資料リストあり（撮影）",
+            "is_public": false,
+            "property_id": 116,
+            "property_label": "shortDescription",
+            "type": "literal"
+        }
+    ],
+    "dcterms:created": [
+        {
+            "@value": "様々",
+            "is_public": true,
+            "property_id": 20,
+            "property_label": "Date Created",
+            "type": "literal"
+        }
+    ],
+    "dcterms:extent": [
+        {
+            "@value": "クリアファイルに入っている",
+            "is_public": true,
+            "property_id": 25,
+            "property_label": "Extent",
+            "type": "literal"
+        },
+        {
+            "@value": "刷物",
+            "is_public": true,
+            "property_id": 25,
+            "property_label": "Extent",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "1_005",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:instructionalMethod": [
+        {
+            "@value": "test",
+            "is_public": true,
+            "property_id": 52,
+            "property_label": "Instructional Method",
+            "type": "literal"
+        }
+    ],
+    "dcterms:relation": [
+        {
+            "@id": "https://diyhistory.org/public/omekac/admin/collections/28/annotate",
+            "is_public": true,
+            "property_id": 13,
+            "property_label": "Relation",
+            "type": "uri"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/publicdomain/mark/1.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@value": "千代田区",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "（千代田区関連刷物資料）",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2020-02-01T02:39:24+00:00"
+    },
+    "o:id": 26,
+    "o:is_public": false,
+    "o:item_set": [
+        {
+            "@id": "https://diyhistory.org/public/dalab/api/item_sets/110",
+            "o:id": 110
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://diyhistory.org/public/dalab/api/media/60",
+            "o:id": 60
+        },
+        {
+            "@id": "https://diyhistory.org/public/dalab/api/media/61",
+            "o:id": 61
+        },
+        {
+            "@id": "https://diyhistory.org/public/dalab/api/media/62",
+            "o:id": 62
+        },
+        {
+            "@id": "https://diyhistory.org/public/dalab/api/media/63",
+            "o:id": 63
+        },
+        {
+            "@id": "https://diyhistory.org/public/dalab/api/media/64",
+            "o:id": 64
+        },
+        {
+            "@id": "https://diyhistory.org/public/dalab/api/media/65",
+            "o:id": 65
+        },
+        {
+            "@id": "https://diyhistory.org/public/dalab/api/media/66",
+            "o:id": 66
+        },
+        {
+            "@id": "https://diyhistory.org/public/dalab/api/media/67",
+            "o:id": 67
+        },
+        {
+            "@id": "https://diyhistory.org/public/dalab/api/media/68",
+            "o:id": 68
+        },
+        {
+            "@id": "https://diyhistory.org/public/dalab/api/media/69",
+            "o:id": 69
+        },
+        {
+            "@id": "https://diyhistory.org/public/dalab/api/media/70",
+            "o:id": 70
+        },
+        {
+            "@id": "https://diyhistory.org/public/dalab/api/media/71",
+            "o:id": 71
+        },
+        {
+            "@id": "https://diyhistory.org/public/dalab/api/media/72",
+            "o:id": 72
+        },
+        {
+            "@id": "https://diyhistory.org/public/dalab/api/media/73",
+            "o:id": 73
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2020-02-17T23:17:55+00:00"
+    },
+    "o:owner": {
+        "@id": "https://diyhistory.org/public/dalab/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": {
+        "@id": "https://diyhistory.org/public/dalab/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:thumbnail": null,
+    "o:title": "（千代田区関連刷物資料）"
+}

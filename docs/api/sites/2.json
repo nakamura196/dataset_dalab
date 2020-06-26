@@ -1,0 +1,100 @@
+{
+    "@context": "https://diyhistory.org/public/dalab/api-context",
+    "@id": "https://diyhistory.org/public/dalab/api/sites/2",
+    "@type": "o:Site",
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2020-02-17T03:51:35+00:00"
+    },
+    "o:homepage": null,
+    "o:id": 2,
+    "o:is_public": false,
+    "o:item_pool": {
+        "fulltext_search": "",
+        "item_set_id": [
+            ""
+        ],
+        "o:site_item_set": [
+            {
+                "o:item_set": {
+                    "o:id": "110"
+                }
+            }
+        ],
+        "property": [
+            {
+                "joiner": "and",
+                "property": "",
+                "text": "",
+                "type": "eq"
+            }
+        ],
+        "resource_class_id": [
+            ""
+        ],
+        "resource_template_id": [
+            ""
+        ]
+    },
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2020-06-22T06:59:37+00:00"
+    },
+    "o:navigation": [
+        {
+            "data": {
+                "id": 3,
+                "label": ""
+            },
+            "links": [],
+            "type": "page"
+        },
+        {
+            "data": {
+                "label": "閲覧",
+                "query": ""
+            },
+            "links": [],
+            "type": "browse"
+        },
+        {
+            "data": {
+                "label": "",
+                "query": ""
+            },
+            "links": [],
+            "type": "browseItemSets"
+        }
+    ],
+    "o:owner": {
+        "@id": "https://diyhistory.org/public/dalab/api/users/1",
+        "o:id": 1
+    },
+    "o:page": [
+        {
+            "@id": "https://diyhistory.org/public/dalab/api/site_pages/3",
+            "o:id": 3
+        }
+    ],
+    "o:site_item_set": [
+        {
+            "o:item_set": {
+                "@id": "https://diyhistory.org/public/dalab/api/item_sets/110",
+                "o:id": 110
+            }
+        }
+    ],
+    "o:site_permission": [
+        {
+            "o:role": "admin",
+            "o:user": {
+                "@id": "https://diyhistory.org/public/dalab/api/users/1",
+                "o:id": 1
+            }
+        }
+    ],
+    "o:slug": "dab",
+    "o:summary": null,
+    "o:theme": "default",
+    "o:title": "デジタルアーカイブワークショップ"
+}

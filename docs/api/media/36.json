@@ -1,0 +1,51 @@
+{
+    "@context": "https://diyhistory.org/public/dalab/api-context",
+    "@id": "https://diyhistory.org/public/dalab/api/media/36",
+    "@type": "o:Media",
+    "data": [],
+    "dcterms:identifier": [
+        {
+            "@value": "4_001",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2020-02-01T03:08:42+00:00"
+    },
+    "o:filename": "e844ebf34e0da30faf1bc2f81630261cc8417da8.jpg",
+    "o:id": 36,
+    "o:ingester": "url",
+    "o:is_public": false,
+    "o:item": {
+        "@id": "https://diyhistory.org/public/dalab/api/items/23",
+        "o:id": 23
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2020-06-26T12:28:44+00:00"
+    },
+    "o:original_url": "https://diyhistory.org/public/dalab/files/original/e844ebf34e0da30faf1bc2f81630261cc8417da8.jpg",
+    "o:owner": {
+        "@id": "https://diyhistory.org/public/dalab/api/users/1",
+        "o:id": 1
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "fb94cef7701af05184aa362ada9fc56fbfb84c32eef3454c400146831ed38abf",
+    "o:size": 2734215,
+    "o:source": "http://diyhistory.org/tmp/4/4_001_010.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://diyhistory.org/public/dalab/files/large/e844ebf34e0da30faf1bc2f81630261cc8417da8.jpg",
+        "medium": "https://diyhistory.org/public/dalab/files/medium/e844ebf34e0da30faf1bc2f81630261cc8417da8.jpg",
+        "square": "https://diyhistory.org/public/dalab/files/square/e844ebf34e0da30faf1bc2f81630261cc8417da8.jpg"
+    },
+    "o:title": null
+}

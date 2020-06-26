@@ -1,0 +1,14 @@
+{
+    "@context": "https://diyhistory.org/public/dalab/api-context",
+    "@id": "https://diyhistory.org/public/dalab/api/properties/103",
+    "@type": "o:Property",
+    "o:comment": "An issue number",
+    "o:id": 103,
+    "o:label": "issue",
+    "o:local_name": "issue",
+    "o:term": "bibo:issue",
+    "o:vocabulary": {
+        "@id": "https://diyhistory.org/public/dalab/api/vocabularies/3",
+        "o:id": 3
+    }
+}

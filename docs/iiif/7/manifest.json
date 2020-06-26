@@ -1,0 +1,80 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://diyhistory.org/public/dalab/iiif/7/manifest",
+    "@type": "sc:Manifest",
+    "attribution": "東京文化資源会議",
+    "label": "デジタルアーカイブ・ワークショップ・サンキューカード",
+    "license": "http://creativecommons.org/licenses/by/4.0/",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "デジタルアーカイブ・ワークショップ・サンキューカード"
+        },
+        {
+            "label": "Instructional Method",
+            "value": "test"
+        }
+    ],
+    "related": {
+        "@id": "https://diyhistory.org/public/dalab/s/20200201/item/7",
+        "format": "text/html"
+    },
+    "seeAlso": {
+        "@id": "https://diyhistory.org/public/dalab/api/items/7",
+        "format": "application/ld+json"
+    },
+    "sequences": [
+        {
+            "@id": "https://diyhistory.org/public/dalab/iiif/7/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://diyhistory.org/public/dalab/iiif/7/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1636,
+                    "images": [
+                        {
+                            "@id": "https://diyhistory.org/public/dalab/iiif/7/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://diyhistory.org/public/dalab/iiif/7/canvas/p1",
+                            "resource": {
+                                "@id": "https://diyhistory.org/public/dalab/iiif-img/8/full/800,555/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1636,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://diyhistory.org/public/dalab/iiif-img/8",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                },
+                                "width": 2360
+                            }
+                        }
+                    ],
+                    "label": "1",
+                    "thumbnail": {
+                        "@id": "https://diyhistory.org/public/dalab/iiif-img/8/full/200,200/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://diyhistory.org/public/dalab/iiif-img/8",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "width": 2360
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingDirection": "left-to-right",
+            "viewingHint": "non-paged"
+        }
+    ],
+    "thumbnail": {
+        "@id": "https://diyhistory.org/public/dalab/iiif-img/8/full/200,200/0/default.jpg",
+        "service": {
+            "@context": "http://iiif.io/api/image/2/context.json",
+            "@id": "https://diyhistory.org/public/dalab/iiif-img/8",
+            "profile": "http://iiif.io/api/image/2/level2.json"
+        }
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "@context": "https://diyhistory.org/public/dalab/api-context",
+    "@id": "https://diyhistory.org/public/dalab/api/media/14",
+    "@type": "o:Media",
+    "data": [],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2020-02-01T01:15:27+00:00"
+    },
+    "o:filename": "4afbc04a7aac28801e69154a8857f03686148f43.jpg",
+    "o:id": 14,
+    "o:ingester": "upload",
+    "o:is_public": false,
+    "o:item": {
+        "@id": "https://diyhistory.org/public/dalab/api/items/9",
+        "o:id": 9
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2020-06-26T12:28:44+00:00"
+    },
+    "o:original_url": "https://diyhistory.org/public/dalab/files/original/4afbc04a7aac28801e69154a8857f03686148f43.jpg",
+    "o:owner": {
+        "@id": "https://diyhistory.org/public/dalab/api/users/1",
+        "o:id": 1
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "b7a81e846a757c28500839faee3c55b8a5c0b8e724947213658519a41dcbe6a8",
+    "o:size": 3259744,
+    "o:source": "20200201_DAラボチラシ案.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "https://diyhistory.org/public/dalab/files/large/4afbc04a7aac28801e69154a8857f03686148f43.jpg",
+        "medium": "https://diyhistory.org/public/dalab/files/medium/4afbc04a7aac28801e69154a8857f03686148f43.jpg",
+        "square": "https://diyhistory.org/public/dalab/files/square/4afbc04a7aac28801e69154a8857f03686148f43.jpg"
+    },
+    "o:title": null
+}

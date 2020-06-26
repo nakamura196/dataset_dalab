@@ -1,0 +1,14 @@
+{
+    "@context": "https://diyhistory.org/public/dalab/api-context",
+    "@id": "https://diyhistory.org/public/dalab/api/properties/143",
+    "@type": "o:Property",
+    "o:comment": "The surname of some person.",
+    "o:id": 143,
+    "o:label": "Surname",
+    "o:local_name": "surname",
+    "o:term": "foaf:surname",
+    "o:vocabulary": {
+        "@id": "https://diyhistory.org/public/dalab/api/vocabularies/4",
+        "o:id": 4
+    }
+}

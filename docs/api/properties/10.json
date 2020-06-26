@@ -1,0 +1,14 @@
+{
+    "@context": "https://diyhistory.org/public/dalab/api-context",
+    "@id": "https://diyhistory.org/public/dalab/api/properties/10",
+    "@type": "o:Property",
+    "o:comment": "An unambiguous reference to the resource within a given context.",
+    "o:id": 10,
+    "o:label": "Identifier",
+    "o:local_name": "identifier",
+    "o:term": "dcterms:identifier",
+    "o:vocabulary": {
+        "@id": "https://diyhistory.org/public/dalab/api/vocabularies/1",
+        "o:id": 1
+    }
+}

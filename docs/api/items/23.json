@@ -1,0 +1,250 @@
+{
+    "@context": "https://diyhistory.org/public/dalab/api-context",
+    "@id": "https://diyhistory.org/public/dalab/api/items/23",
+    "@type": "o:Item",
+    "bibo:shortDescription": [
+        {
+            "@value": "火消しの様子",
+            "is_public": false,
+            "property_id": 116,
+            "property_label": "shortDescription",
+            "type": "literal"
+        }
+    ],
+    "dcterms:created": [
+        {
+            "@value": "大正2",
+            "is_public": true,
+            "property_id": 20,
+            "property_label": "Date Created",
+            "type": "literal"
+        },
+        {
+            "@value": "1913",
+            "is_public": true,
+            "property_id": 20,
+            "property_label": "Date Created",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "火事の後に出された写真を葉書にしたもの",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "大正2年2月20日",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:extent": [
+        {
+            "@value": "冊子",
+            "is_public": true,
+            "property_id": 25,
+            "property_label": "Extent",
+            "type": "literal"
+        },
+        {
+            "@value": "絵葉書",
+            "is_public": true,
+            "property_id": 25,
+            "property_label": "Extent",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "4_001",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:instructionalMethod": [
+        {
+            "@value": "test",
+            "is_public": true,
+            "property_id": 52,
+            "property_label": "Instructional Method",
+            "type": "literal"
+        }
+    ],
+    "dcterms:relation": [
+        {
+            "@id": "https://diyhistory.org/public/omekac/admin/collections/26/annotate",
+            "is_public": true,
+            "property_id": 13,
+            "property_label": "Relation",
+            "type": "uri"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/publicdomain/mark/1.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@value": "神田",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "literal"
+        }
+    ],
+    "dcterms:subject": [
+        {
+            "@value": "火事",
+            "is_public": true,
+            "property_id": 3,
+            "property_label": "Subject",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "神田大火絵葉書",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2020-02-01T02:22:12+00:00"
+    },
+    "o:id": 23,
+    "o:is_public": false,
+    "o:item_set": [
+        {
+            "@id": "https://diyhistory.org/public/dalab/api/item_sets/110",
+            "o:id": 110
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://diyhistory.org/public/dalab/api/media/27",
+            "o:id": 27
+        },
+        {
+            "@id": "https://diyhistory.org/public/dalab/api/media/28",
+            "o:id": 28
+        },
+        {
+            "@id": "https://diyhistory.org/public/dalab/api/media/29",
+            "o:id": 29
+        },
+        {
+            "@id": "https://diyhistory.org/public/dalab/api/media/30",
+            "o:id": 30
+        },
+        {
+            "@id": "https://diyhistory.org/public/dalab/api/media/31",
+            "o:id": 31
+        },
+        {
+            "@id": "https://diyhistory.org/public/dalab/api/media/32",
+            "o:id": 32
+        },
+        {
+            "@id": "https://diyhistory.org/public/dalab/api/media/33",
+            "o:id": 33
+        },
+        {
+            "@id": "https://diyhistory.org/public/dalab/api/media/34",
+            "o:id": 34
+        },
+        {
+            "@id": "https://diyhistory.org/public/dalab/api/media/35",
+            "o:id": 35
+        },
+        {
+            "@id": "https://diyhistory.org/public/dalab/api/media/36",
+            "o:id": 36
+        },
+        {
+            "@id": "https://diyhistory.org/public/dalab/api/media/37",
+            "o:id": 37
+        },
+        {
+            "@id": "https://diyhistory.org/public/dalab/api/media/38",
+            "o:id": 38
+        },
+        {
+            "@id": "https://diyhistory.org/public/dalab/api/media/39",
+            "o:id": 39
+        },
+        {
+            "@id": "https://diyhistory.org/public/dalab/api/media/40",
+            "o:id": 40
+        },
+        {
+            "@id": "https://diyhistory.org/public/dalab/api/media/41",
+            "o:id": 41
+        },
+        {
+            "@id": "https://diyhistory.org/public/dalab/api/media/42",
+            "o:id": 42
+        },
+        {
+            "@id": "https://diyhistory.org/public/dalab/api/media/43",
+            "o:id": 43
+        },
+        {
+            "@id": "https://diyhistory.org/public/dalab/api/media/44",
+            "o:id": 44
+        },
+        {
+            "@id": "https://diyhistory.org/public/dalab/api/media/45",
+            "o:id": 45
+        },
+        {
+            "@id": "https://diyhistory.org/public/dalab/api/media/46",
+            "o:id": 46
+        },
+        {
+            "@id": "https://diyhistory.org/public/dalab/api/media/47",
+            "o:id": 47
+        },
+        {
+            "@id": "https://diyhistory.org/public/dalab/api/media/48",
+            "o:id": 48
+        },
+        {
+            "@id": "https://diyhistory.org/public/dalab/api/media/49",
+            "o:id": 49
+        },
+        {
+            "@id": "https://diyhistory.org/public/dalab/api/media/50",
+            "o:id": 50
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2020-02-17T23:17:55+00:00"
+    },
+    "o:owner": {
+        "@id": "https://diyhistory.org/public/dalab/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": {
+        "@id": "https://diyhistory.org/public/dalab/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:thumbnail": null,
+    "o:title": "神田大火絵葉書"
+}

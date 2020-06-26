@@ -1,0 +1,53 @@
+{
+    "@context": "https://diyhistory.org/public/dalab/api-context",
+    "@id": "https://diyhistory.org/public/dalab/api/items/9",
+    "@type": "o:Item",
+    "dcterms:instructionalMethod": [
+        {
+            "@value": "test",
+            "is_public": true,
+            "property_id": 52,
+            "property_label": "Instructional Method",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "デジタルアーカイブ・ワークショップ・ポスター",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2020-02-01T00:44:25+00:00"
+    },
+    "o:id": 9,
+    "o:is_public": false,
+    "o:item_set": [
+        {
+            "@id": "https://diyhistory.org/public/dalab/api/item_sets/110",
+            "o:id": 110
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://diyhistory.org/public/dalab/api/media/14",
+            "o:id": 14
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2020-02-17T23:17:55+00:00"
+    },
+    "o:owner": {
+        "@id": "https://diyhistory.org/public/dalab/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:thumbnail": null,
+    "o:title": "デジタルアーカイブ・ワークショップ・ポスター"
+}

@@ -1,0 +1,161 @@
+{
+    "@context": "https://diyhistory.org/public/dalab/api-context",
+    "@id": "https://diyhistory.org/public/dalab/api/items/15",
+    "@type": "o:Item",
+    "bibo:shortDescription": [
+        {
+            "@value": "こわれやすいので注意",
+            "is_public": false,
+            "property_id": 116,
+            "property_label": "shortDescription",
+            "type": "literal"
+        }
+    ],
+    "dcterms:created": [
+        {
+            "@value": "1890",
+            "is_public": true,
+            "property_id": 20,
+            "property_label": "Date Created",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "番付表",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "1-001",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:instructionalMethod": [
+        {
+            "@value": "test",
+            "is_public": true,
+            "property_id": 52,
+            "property_label": "Instructional Method",
+            "type": "literal"
+        }
+    ],
+    "dcterms:relation": [
+        {
+            "@id": "https://diyhistory.org/public/omekac/admin/collections/24/annotate",
+            "is_public": true,
+            "property_id": 13,
+            "property_label": "Relation",
+            "type": "uri"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/publicdomain/mark/1.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@value": "東京",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "literal"
+        },
+        {
+            "@value": "下谷",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "literal"
+        },
+        {
+            "@value": "本郷",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "literal"
+        }
+    ],
+    "dcterms:subject": [
+        {
+            "@value": "酒店",
+            "is_public": true,
+            "property_id": 3,
+            "property_label": "Subject",
+            "type": "literal"
+        },
+        {
+            "@value": "番付",
+            "is_public": true,
+            "property_id": 3,
+            "property_label": "Subject",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "東京酒商店一覧鑑",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2020-02-01T02:07:51+00:00"
+    },
+    "o:id": 15,
+    "o:is_public": false,
+    "o:item_set": [
+        {
+            "@id": "https://diyhistory.org/public/dalab/api/item_sets/110",
+            "o:id": 110
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://diyhistory.org/public/dalab/api/media/19",
+            "o:id": 19
+        },
+        {
+            "@id": "https://diyhistory.org/public/dalab/api/media/20",
+            "o:id": 20
+        },
+        {
+            "@id": "https://diyhistory.org/public/dalab/api/media/21",
+            "o:id": 21
+        },
+        {
+            "@id": "https://diyhistory.org/public/dalab/api/media/22",
+            "o:id": 22
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2020-02-17T23:17:55+00:00"
+    },
+    "o:owner": {
+        "@id": "https://diyhistory.org/public/dalab/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": {
+        "@id": "https://diyhistory.org/public/dalab/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:thumbnail": null,
+    "o:title": "東京酒商店一覧鑑"
+}

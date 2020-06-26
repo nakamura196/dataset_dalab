@@ -1,0 +1,115 @@
+{
+    "@context": "https://diyhistory.org/public/dalab/api-context",
+    "@id": "https://diyhistory.org/public/dalab/api/sites/1",
+    "@type": "o:Site",
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2020-01-31T23:22:47+00:00"
+    },
+    "o:homepage": {
+        "@id": "https://diyhistory.org/public/dalab/api/site_pages/1",
+        "o:id": 1
+    },
+    "o:id": 1,
+    "o:is_public": false,
+    "o:item_pool": {
+        "item_set_id": [
+            ""
+        ],
+        "o:site_item_set": [
+            {
+                "o:item_set": {
+                    "o:id": "108"
+                }
+            }
+        ],
+        "property": [
+            {
+                "joiner": "and",
+                "property": "",
+                "text": "",
+                "type": "eq"
+            }
+        ],
+        "resource_class_id": [
+            ""
+        ],
+        "resource_template_id": [
+            ""
+        ],
+        "site_id": ""
+    },
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2020-06-22T07:00:47+00:00"
+    },
+    "o:navigation": [
+        {
+            "data": {
+                "id": 1,
+                "label": ""
+            },
+            "links": [],
+            "type": "page"
+        },
+        {
+            "data": {
+                "label": "閲覧",
+                "query": ""
+            },
+            "links": [],
+            "type": "browse"
+        },
+        {
+            "data": {
+                "label": "",
+                "query": ""
+            },
+            "links": [],
+            "type": "browseItemSets"
+        },
+        {
+            "data": {
+                "id": 2,
+                "label": ""
+            },
+            "links": [],
+            "type": "page"
+        }
+    ],
+    "o:owner": {
+        "@id": "https://diyhistory.org/public/dalab/api/users/1",
+        "o:id": 1
+    },
+    "o:page": [
+        {
+            "@id": "https://diyhistory.org/public/dalab/api/site_pages/1",
+            "o:id": 1
+        },
+        {
+            "@id": "https://diyhistory.org/public/dalab/api/site_pages/2",
+            "o:id": 2
+        }
+    ],
+    "o:site_item_set": [
+        {
+            "o:item_set": {
+                "@id": "https://diyhistory.org/public/dalab/api/item_sets/108",
+                "o:id": 108
+            }
+        }
+    ],
+    "o:site_permission": [
+        {
+            "o:role": "admin",
+            "o:user": {
+                "@id": "https://diyhistory.org/public/dalab/api/users/1",
+                "o:id": 1
+            }
+        }
+    ],
+    "o:slug": "20200201",
+    "o:summary": null,
+    "o:theme": "default",
+    "o:title": "DA Lab 2020-02-01 デジタルアーカイブ・ワークショップ"
+}

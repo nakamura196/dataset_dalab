@@ -1,0 +1,152 @@
+{
+    "@context": "https://diyhistory.org/public/dalab/api-context",
+    "@id": "https://diyhistory.org/public/dalab/api/items/88",
+    "@type": "o:Item",
+    "bibo:shortDescription": [
+        {
+            "@value": "番号：16746",
+            "is_public": false,
+            "property_id": 116,
+            "property_label": "shortDescription",
+            "type": "literal"
+        },
+        {
+            "@value": "燻蒸済み（床に置かないこと）",
+            "is_public": false,
+            "property_id": 116,
+            "property_label": "shortDescription",
+            "type": "literal"
+        },
+        {
+            "@value": "公開不可",
+            "is_public": false,
+            "property_id": 116,
+            "property_label": "shortDescription",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "弾薬ケースか",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "「駿」（？）、「図」と朱書き",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:extent": [
+        {
+            "@value": "カンバス布",
+            "is_public": true,
+            "property_id": 25,
+            "property_label": "Extent",
+            "type": "literal"
+        },
+        {
+            "@value": "皮",
+            "is_public": true,
+            "property_id": 25,
+            "property_label": "Extent",
+            "type": "literal"
+        },
+        {
+            "@value": "金属",
+            "is_public": true,
+            "property_id": 25,
+            "property_label": "Extent",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "2_003",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:instructionalMethod": [
+        {
+            "@value": "test",
+            "is_public": true,
+            "property_id": 52,
+            "property_label": "Instructional Method",
+            "type": "literal"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/publicdomain/mark/1.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "カンバス地　立ち体　バッグ",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2020-02-01T05:33:32+00:00"
+    },
+    "o:id": 88,
+    "o:is_public": false,
+    "o:item_set": [
+        {
+            "@id": "https://diyhistory.org/public/dalab/api/item_sets/110",
+            "o:id": 110
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://diyhistory.org/public/dalab/api/media/89",
+            "o:id": 89
+        },
+        {
+            "@id": "https://diyhistory.org/public/dalab/api/media/90",
+            "o:id": 90
+        },
+        {
+            "@id": "https://diyhistory.org/public/dalab/api/media/91",
+            "o:id": 91
+        },
+        {
+            "@id": "https://diyhistory.org/public/dalab/api/media/92",
+            "o:id": 92
+        },
+        {
+            "@id": "https://diyhistory.org/public/dalab/api/media/93",
+            "o:id": 93
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2020-02-17T23:17:55+00:00"
+    },
+    "o:owner": {
+        "@id": "https://diyhistory.org/public/dalab/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": {
+        "@id": "https://diyhistory.org/public/dalab/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:thumbnail": null,
+    "o:title": "カンバス地　立ち体　バッグ"
+}

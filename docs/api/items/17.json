@@ -1,0 +1,178 @@
+{
+    "@context": "https://diyhistory.org/public/dalab/api-context",
+    "@id": "https://diyhistory.org/public/dalab/api/items/17",
+    "@type": "o:Item",
+    "dcterms:created": [
+        {
+            "@value": "明暦3",
+            "is_public": true,
+            "property_id": 20,
+            "property_label": "Date Created",
+            "type": "literal"
+        },
+        {
+            "@value": "1659-01",
+            "is_public": true,
+            "property_id": 20,
+            "property_label": "Date Created",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "江戸の地図（明暦の火事の前）\r\n出版されたのは火事のあと",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:extent": [
+        {
+            "@value": "地図",
+            "is_public": true,
+            "property_id": 25,
+            "property_label": "Extent",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "3_001",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:instructionalMethod": [
+        {
+            "@value": "test",
+            "is_public": true,
+            "property_id": 52,
+            "property_label": "Instructional Method",
+            "type": "literal"
+        }
+    ],
+    "dcterms:relation": [
+        {
+            "@id": "https://diyhistory.org/public/omekac/admin/collections/29/annotate",
+            "is_public": true,
+            "property_id": 13,
+            "property_label": "Relation",
+            "type": "uri"
+        }
+    ],
+    "dcterms:rights": [
+        {
+            "@id": "http://creativecommons.org/publicdomain/mark/1.0/",
+            "is_public": true,
+            "property_id": 15,
+            "property_label": "Rights",
+            "type": "uri"
+        }
+    ],
+    "dcterms:spatial": [
+        {
+            "@value": "江戸",
+            "is_public": true,
+            "property_id": 40,
+            "property_label": "Spatial Coverage",
+            "type": "literal"
+        }
+    ],
+    "dcterms:subject": [
+        {
+            "@value": "江戸",
+            "is_public": true,
+            "property_id": 3,
+            "property_label": "Subject",
+            "type": "literal"
+        },
+        {
+            "@value": "地図",
+            "is_public": true,
+            "property_id": 3,
+            "property_label": "Subject",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "明暦開板新添江戸図",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2020-02-01T02:16:08+00:00"
+    },
+    "o:id": 17,
+    "o:is_public": false,
+    "o:item_set": [
+        {
+            "@id": "https://diyhistory.org/public/dalab/api/item_sets/110",
+            "o:id": 110
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://diyhistory.org/public/dalab/api/media/51",
+            "o:id": 51
+        },
+        {
+            "@id": "https://diyhistory.org/public/dalab/api/media/52",
+            "o:id": 52
+        },
+        {
+            "@id": "https://diyhistory.org/public/dalab/api/media/53",
+            "o:id": 53
+        },
+        {
+            "@id": "https://diyhistory.org/public/dalab/api/media/54",
+            "o:id": 54
+        },
+        {
+            "@id": "https://diyhistory.org/public/dalab/api/media/55",
+            "o:id": 55
+        },
+        {
+            "@id": "https://diyhistory.org/public/dalab/api/media/56",
+            "o:id": 56
+        },
+        {
+            "@id": "https://diyhistory.org/public/dalab/api/media/57",
+            "o:id": 57
+        },
+        {
+            "@id": "https://diyhistory.org/public/dalab/api/media/58",
+            "o:id": 58
+        },
+        {
+            "@id": "https://diyhistory.org/public/dalab/api/media/59",
+            "o:id": 59
+        },
+        {
+            "@id": "https://diyhistory.org/public/dalab/api/media/75",
+            "o:id": 75
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2020-02-17T23:17:55+00:00"
+    },
+    "o:owner": {
+        "@id": "https://diyhistory.org/public/dalab/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": {
+        "@id": "https://diyhistory.org/public/dalab/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:thumbnail": null,
+    "o:title": "明暦開板新添江戸図"
+}

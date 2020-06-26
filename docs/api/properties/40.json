@@ -1,0 +1,14 @@
+{
+    "@context": "https://diyhistory.org/public/dalab/api-context",
+    "@id": "https://diyhistory.org/public/dalab/api/properties/40",
+    "@type": "o:Property",
+    "o:comment": "Spatial characteristics of the resource.",
+    "o:id": 40,
+    "o:label": "Spatial Coverage",
+    "o:local_name": "spatial",
+    "o:term": "dcterms:spatial",
+    "o:vocabulary": {
+        "@id": "https://diyhistory.org/public/dalab/api/vocabularies/1",
+        "o:id": 1
+    }
+}

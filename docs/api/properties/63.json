@@ -1,0 +1,14 @@
+{
+    "@context": "https://diyhistory.org/public/dalab/api-context",
+    "@id": "https://diyhistory.org/public/dalab/api/properties/63",
+    "@type": "o:Property",
+    "o:comment": "The thesis degree.",
+    "o:id": 63,
+    "o:label": "degree",
+    "o:local_name": "degree",
+    "o:term": "bibo:degree",
+    "o:vocabulary": {
+        "@id": "https://diyhistory.org/public/dalab/api/vocabularies/3",
+        "o:id": 3
+    }
+}
