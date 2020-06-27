@@ -1,0 +1,166 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/dataset_dalab/iiif/76/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京文化資源会議",
+    "label": "[金属破片]",
+    "license": "http://creativecommons.org/licenses/by/4.0/",
+    "metadata": [
+        {
+            "label": "Identifier",
+            "value": "2_001"
+        },
+        {
+            "label": "Title",
+            "value": "[金属破片]<br />\r\n"
+        },
+        {
+            "label": "Rights",
+            "value": "<a class=\"uri-value-link\" target=\"_blank\" href=\"http&#x3A;&#x2F;&#x2F;creativecommons.org&#x2F;publicdomain&#x2F;mark&#x2F;1.0&#x2F;\">http://creativecommons.org/publicdomain/mark/1.0/</a>"
+        },
+        {
+            "label": "Description",
+            "value": [
+                "識別番号（26061）あり",
+                "砲弾の翼か"
+            ]
+        },
+        {
+            "label": "shortDescription",
+            "value": [
+                "勲章済み",
+                "床に置かないこと"
+            ]
+        },
+        {
+            "label": "Relation",
+            "value": "<a class=\"uri-value-link\" target=\"_blank\" href=\"https&#x3A;&#x2F;&#x2F;diyhistory.org&#x2F;public&#x2F;omekac&#x2F;admin&#x2F;collections&#x2F;30&#x2F;annotate\">https://diyhistory.org/public/omekac/admin/collections/30/annotate</a>"
+        },
+        {
+            "label": "Instructional Method",
+            "value": "test"
+        }
+    ],
+    "related": {
+        "@id": "https://www.kanzaki.com/works/2016/pub/image-annotator?u=https://nakamura196.github.io/dataset_dalab/iiif/76/manifest.json",
+        "format": "text/html"
+    },
+    "seeAlso": {
+        "@id": "https://nakamura196.github.io/dataset_dalab/api/items/76.json",
+        "format": "application/ld+json"
+    },
+    "sequences": [
+        {
+            "@id": "https://diyhistory.org/public/dalab/iiif/76/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://diyhistory.org/public/dalab/iiif/76/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 8026,
+                    "images": [
+                        {
+                            "@id": "https://diyhistory.org/public/dalab/iiif/76/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://diyhistory.org/public/dalab/iiif/76/canvas/p1",
+                            "resource": {
+                                "@id": "https://nakamura196.github.io/dataset_dalab/files/original/eb468e195aedeec339fba0cd465bbfc3fe894956.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 8026,
+                                "width": 5351
+                            }
+                        }
+                    ],
+                    "label": "1",
+                    "thumbnail": {
+                        "@id": "https://nakamura196.github.io/dataset_dalab/files/medium/eb468e195aedeec339fba0cd465bbfc3fe894956.jpg"
+                    },
+                    "width": 5351
+                },
+                {
+                    "@id": "https://diyhistory.org/public/dalab/iiif/76/canvas/p2",
+                    "@type": "sc:Canvas",
+                    "height": 8026,
+                    "images": [
+                        {
+                            "@id": "https://diyhistory.org/public/dalab/iiif/76/annotation/p0002-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://diyhistory.org/public/dalab/iiif/76/canvas/p2",
+                            "resource": {
+                                "@id": "https://nakamura196.github.io/dataset_dalab/files/original/ad91198e45aa8862cc349d24ee4c4d3cc0382611.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 8026,
+                                "width": 5351
+                            }
+                        }
+                    ],
+                    "label": "2",
+                    "thumbnail": {
+                        "@id": "https://nakamura196.github.io/dataset_dalab/files/medium/ad91198e45aa8862cc349d24ee4c4d3cc0382611.jpg"
+                    },
+                    "width": 5351
+                },
+                {
+                    "@id": "https://diyhistory.org/public/dalab/iiif/76/canvas/p3",
+                    "@type": "sc:Canvas",
+                    "height": 8026,
+                    "images": [
+                        {
+                            "@id": "https://diyhistory.org/public/dalab/iiif/76/annotation/p0003-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://diyhistory.org/public/dalab/iiif/76/canvas/p3",
+                            "resource": {
+                                "@id": "https://nakamura196.github.io/dataset_dalab/files/original/62b0ec2a4214f57751a9e9e097f8c5d5cd8f852c.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 8026,
+                                "width": 5351
+                            }
+                        }
+                    ],
+                    "label": "3",
+                    "thumbnail": {
+                        "@id": "https://nakamura196.github.io/dataset_dalab/files/medium/62b0ec2a4214f57751a9e9e097f8c5d5cd8f852c.jpg"
+                    },
+                    "width": 5351
+                },
+                {
+                    "@id": "https://diyhistory.org/public/dalab/iiif/76/canvas/p4",
+                    "@type": "sc:Canvas",
+                    "height": 8026,
+                    "images": [
+                        {
+                            "@id": "https://diyhistory.org/public/dalab/iiif/76/annotation/p0004-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://diyhistory.org/public/dalab/iiif/76/canvas/p4",
+                            "resource": {
+                                "@id": "https://nakamura196.github.io/dataset_dalab/files/original/b13fa07e077419aa9e3328a300f471a5101b9f18.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 8026,
+                                "width": 5351
+                            }
+                        }
+                    ],
+                    "label": "4",
+                    "thumbnail": {
+                        "@id": "https://nakamura196.github.io/dataset_dalab/files/medium/b13fa07e077419aa9e3328a300f471a5101b9f18.jpg"
+                    },
+                    "width": 5351
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingDirection": "left-to-right",
+            "viewingHint": "paged"
+        }
+    ],
+    "thumbnail": {
+        "@id": "https://nakamura196.github.io/dataset_dalab/files/medium/eb468e195aedeec339fba0cd465bbfc3fe894956.jpg"
+    }
+}

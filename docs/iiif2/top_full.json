@@ -1,0 +1,480 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/dataset_dalab/iiif2/top_full.json",
+    "@type": "sc:Collection",
+    "manifests": [
+        {
+            "@id": "https://nakamura196.github.io/dataset_dalab/iiif/9/manifest.json",
+            "attribution": "東京文化資源会議",
+            "label": "デジタルアーカイブ・ワークショップ・ポスター",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "デジタルアーカイブ・ワークショップ・ポスター"
+                },
+                {
+                    "label": "Instructional Method",
+                    "value": "test"
+                }
+            ],
+            "related": "https://www.kanzaki.com/works/2016/pub/image-annotator?u=https://nakamura196.github.io/dataset_dalab/iiif/9/manifest.json",
+            "seeAlso": "https://nakamura196.github.io/dataset_dalab/api/items/9.json",
+            "thumbnail": "https://nakamura196.github.io/dataset_dalab/files/medium/4afbc04a7aac28801e69154a8857f03686148f43.jpg"
+        },
+        {
+            "@id": "https://nakamura196.github.io/dataset_dalab/iiif/7/manifest.json",
+            "attribution": "東京文化資源会議",
+            "label": "デジタルアーカイブ・ワークショップ・サンキューカード",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "デジタルアーカイブ・ワークショップ・サンキューカード"
+                },
+                {
+                    "label": "Instructional Method",
+                    "value": "test"
+                }
+            ],
+            "related": "https://www.kanzaki.com/works/2016/pub/image-annotator?u=https://nakamura196.github.io/dataset_dalab/iiif/7/manifest.json",
+            "seeAlso": "https://nakamura196.github.io/dataset_dalab/api/items/7.json",
+            "thumbnail": "https://nakamura196.github.io/dataset_dalab/files/medium/39a36ef900fe95fe8b0c0bfd9dd306a8251366c9.jpg"
+        },
+        {
+            "@id": "https://nakamura196.github.io/dataset_dalab/iiif/16/manifest.json",
+            "attribution": "東京文化資源会議",
+            "label": "新板　江戸大繪圖　絵入",
+            "metadata": [
+                {
+                    "label": "Identifier",
+                    "value": "1-002"
+                },
+                {
+                    "label": "Title",
+                    "value": "新板　江戸大繪圖　絵入"
+                },
+                {
+                    "label": "Spatial Coverage",
+                    "value": "江戸"
+                },
+                {
+                    "label": "Date Created",
+                    "value": [
+                        "1650代",
+                        "延宝6年1月"
+                    ]
+                },
+                {
+                    "label": "Rights",
+                    "value": "<a class=\"uri-value-link\" target=\"_blank\" href=\"http&#x3A;&#x2F;&#x2F;creativecommons.org&#x2F;publicdomain&#x2F;mark&#x2F;1.0&#x2F;\">http://creativecommons.org/publicdomain/mark/1.0/</a>"
+                },
+                {
+                    "label": "Subject",
+                    "value": [
+                        "江戸",
+                        "地図"
+                    ]
+                },
+                {
+                    "label": "Extent",
+                    "value": "地図"
+                },
+                {
+                    "label": "Description",
+                    "value": "江戸の地図"
+                },
+                {
+                    "label": "shortDescription",
+                    "value": [
+                        "壊れやすい",
+                        "大版"
+                    ]
+                },
+                {
+                    "label": "Creator",
+                    "value": "表紙屋市郎兵衛"
+                },
+                {
+                    "label": "Relation",
+                    "value": "<a class=\"uri-value-link\" target=\"_blank\" href=\"https&#x3A;&#x2F;&#x2F;diyhistory.org&#x2F;public&#x2F;omekac&#x2F;admin&#x2F;collections&#x2F;25&#x2F;annotate\">https://diyhistory.org/public/omekac/admin/collections/25/annotate</a>"
+                },
+                {
+                    "label": "Instructional Method",
+                    "value": "test"
+                }
+            ],
+            "related": "https://www.kanzaki.com/works/2016/pub/image-annotator?u=https://nakamura196.github.io/dataset_dalab/iiif/16/manifest.json",
+            "seeAlso": "https://nakamura196.github.io/dataset_dalab/api/items/16.json",
+            "thumbnail": "https://nakamura196.github.io/dataset_dalab/files/medium/cfc320ae4024db4104e45307db8d0500d3feb222.jpg"
+        },
+        {
+            "@id": "https://nakamura196.github.io/dataset_dalab/iiif/17/manifest.json",
+            "attribution": "東京文化資源会議",
+            "label": "明暦開板新添江戸図",
+            "metadata": [
+                {
+                    "label": "Identifier",
+                    "value": "3_001"
+                },
+                {
+                    "label": "Title",
+                    "value": "明暦開板新添江戸図"
+                },
+                {
+                    "label": "Spatial Coverage",
+                    "value": "江戸"
+                },
+                {
+                    "label": "Date Created",
+                    "value": [
+                        "明暦3",
+                        "1659-01"
+                    ]
+                },
+                {
+                    "label": "Rights",
+                    "value": "<a class=\"uri-value-link\" target=\"_blank\" href=\"http&#x3A;&#x2F;&#x2F;creativecommons.org&#x2F;publicdomain&#x2F;mark&#x2F;1.0&#x2F;\">http://creativecommons.org/publicdomain/mark/1.0/</a>"
+                },
+                {
+                    "label": "Subject",
+                    "value": [
+                        "江戸",
+                        "地図"
+                    ]
+                },
+                {
+                    "label": "Extent",
+                    "value": "地図"
+                },
+                {
+                    "label": "Description",
+                    "value": "江戸の地図（明暦の火事の前）<br />\r\n出版されたのは火事のあと"
+                },
+                {
+                    "label": "Relation",
+                    "value": "<a class=\"uri-value-link\" target=\"_blank\" href=\"https&#x3A;&#x2F;&#x2F;diyhistory.org&#x2F;public&#x2F;omekac&#x2F;admin&#x2F;collections&#x2F;29&#x2F;annotate\">https://diyhistory.org/public/omekac/admin/collections/29/annotate</a>"
+                },
+                {
+                    "label": "Instructional Method",
+                    "value": "test"
+                }
+            ],
+            "related": "https://www.kanzaki.com/works/2016/pub/image-annotator?u=https://nakamura196.github.io/dataset_dalab/iiif/17/manifest.json",
+            "seeAlso": "https://nakamura196.github.io/dataset_dalab/api/items/17.json",
+            "thumbnail": "https://nakamura196.github.io/dataset_dalab/files/medium/7e91e17ae0915957fffa67273acb51b50863c6d9.jpg"
+        },
+        {
+            "@id": "https://nakamura196.github.io/dataset_dalab/iiif/26/manifest.json",
+            "attribution": "東京文化資源会議",
+            "label": "（千代田区関連刷物資料）",
+            "metadata": [
+                {
+                    "label": "Identifier",
+                    "value": "1_005"
+                },
+                {
+                    "label": "Title",
+                    "value": "（千代田区関連刷物資料）"
+                },
+                {
+                    "label": "Spatial Coverage",
+                    "value": "千代田区"
+                },
+                {
+                    "label": "Date Created",
+                    "value": "様々"
+                },
+                {
+                    "label": "Rights",
+                    "value": "<a class=\"uri-value-link\" target=\"_blank\" href=\"http&#x3A;&#x2F;&#x2F;creativecommons.org&#x2F;publicdomain&#x2F;mark&#x2F;1.0&#x2F;\">http://creativecommons.org/publicdomain/mark/1.0/</a>"
+                },
+                {
+                    "label": "Extent",
+                    "value": [
+                        "クリアファイルに入っている",
+                        "刷物"
+                    ]
+                },
+                {
+                    "label": "shortDescription",
+                    "value": [
+                        "PDだけデジタル化対象",
+                        "資料リストあり（撮影）"
+                    ]
+                },
+                {
+                    "label": "Relation",
+                    "value": "<a class=\"uri-value-link\" target=\"_blank\" href=\"https&#x3A;&#x2F;&#x2F;diyhistory.org&#x2F;public&#x2F;omekac&#x2F;admin&#x2F;collections&#x2F;28&#x2F;annotate\">https://diyhistory.org/public/omekac/admin/collections/28/annotate</a>"
+                },
+                {
+                    "label": "Instructional Method",
+                    "value": "test"
+                }
+            ],
+            "related": "https://www.kanzaki.com/works/2016/pub/image-annotator?u=https://nakamura196.github.io/dataset_dalab/iiif/26/manifest.json",
+            "seeAlso": "https://nakamura196.github.io/dataset_dalab/api/items/26.json",
+            "thumbnail": "https://nakamura196.github.io/dataset_dalab/files/medium/c42c418c928fbebbf8400f097193073699a4be1d.jpg"
+        },
+        {
+            "@id": "https://nakamura196.github.io/dataset_dalab/iiif/81/manifest.json",
+            "attribution": "東京文化資源会議",
+            "label": "携帯用サイレン",
+            "metadata": [
+                {
+                    "label": "Identifier",
+                    "value": "2_002"
+                },
+                {
+                    "label": "Title",
+                    "value": "携帯用サイレン"
+                },
+                {
+                    "label": "Rights",
+                    "value": "<a class=\"uri-value-link\" target=\"_blank\" href=\"http&#x3A;&#x2F;&#x2F;creativecommons.org&#x2F;publicdomain&#x2F;mark&#x2F;1.0&#x2F;\">http://creativecommons.org/publicdomain/mark/1.0/</a>"
+                },
+                {
+                    "label": "Extent",
+                    "value": "金属"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "識別番号 16746",
+                        "製造メーカー：伊吹工業所"
+                    ]
+                },
+                {
+                    "label": "shortDescription",
+                    "value": [
+                        "燻蒸済み",
+                        "床に置かないこと"
+                    ]
+                },
+                {
+                    "label": "Relation",
+                    "value": "<a class=\"uri-value-link\" target=\"_blank\" href=\"https&#x3A;&#x2F;&#x2F;diyhistory.org&#x2F;public&#x2F;omekac&#x2F;admin&#x2F;collections&#x2F;31&#x2F;annotate\">https://diyhistory.org/public/omekac/admin/collections/31/annotate</a>"
+                },
+                {
+                    "label": "Instructional Method",
+                    "value": "test"
+                }
+            ],
+            "related": "https://www.kanzaki.com/works/2016/pub/image-annotator?u=https://nakamura196.github.io/dataset_dalab/iiif/81/manifest.json",
+            "seeAlso": "https://nakamura196.github.io/dataset_dalab/api/items/81.json",
+            "thumbnail": "https://nakamura196.github.io/dataset_dalab/files/medium/c938a81b42a2b7884ec7cc3a2e943d62da1eed29.jpg"
+        },
+        {
+            "@id": "https://nakamura196.github.io/dataset_dalab/iiif/88/manifest.json",
+            "attribution": "東京文化資源会議",
+            "label": "カンバス地　立ち体　バッグ",
+            "metadata": [
+                {
+                    "label": "Identifier",
+                    "value": "2_003"
+                },
+                {
+                    "label": "Title",
+                    "value": "カンバス地　立ち体　バッグ"
+                },
+                {
+                    "label": "Rights",
+                    "value": "<a class=\"uri-value-link\" target=\"_blank\" href=\"http&#x3A;&#x2F;&#x2F;creativecommons.org&#x2F;publicdomain&#x2F;mark&#x2F;1.0&#x2F;\">http://creativecommons.org/publicdomain/mark/1.0/</a>"
+                },
+                {
+                    "label": "Extent",
+                    "value": [
+                        "カンバス布",
+                        "皮",
+                        "金属"
+                    ]
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "弾薬ケースか",
+                        "「駿」（？）、「図」と朱書き"
+                    ]
+                },
+                {
+                    "label": "shortDescription",
+                    "value": [
+                        "番号：16746",
+                        "燻蒸済み（床に置かないこと）",
+                        "公開不可"
+                    ]
+                },
+                {
+                    "label": "Instructional Method",
+                    "value": "test"
+                }
+            ],
+            "related": "https://www.kanzaki.com/works/2016/pub/image-annotator?u=https://nakamura196.github.io/dataset_dalab/iiif/88/manifest.json",
+            "seeAlso": "https://nakamura196.github.io/dataset_dalab/api/items/88.json",
+            "thumbnail": "https://nakamura196.github.io/dataset_dalab/files/medium/65b3d1703a40da56d7122feda2fb04a9b50649b4.jpg"
+        },
+        {
+            "@id": "https://nakamura196.github.io/dataset_dalab/iiif/23/manifest.json",
+            "attribution": "東京文化資源会議",
+            "label": "神田大火絵葉書",
+            "metadata": [
+                {
+                    "label": "Identifier",
+                    "value": "4_001"
+                },
+                {
+                    "label": "Title",
+                    "value": "神田大火絵葉書"
+                },
+                {
+                    "label": "Spatial Coverage",
+                    "value": "神田"
+                },
+                {
+                    "label": "Date Created",
+                    "value": [
+                        "大正2",
+                        "1913"
+                    ]
+                },
+                {
+                    "label": "Rights",
+                    "value": "<a class=\"uri-value-link\" target=\"_blank\" href=\"http&#x3A;&#x2F;&#x2F;creativecommons.org&#x2F;publicdomain&#x2F;mark&#x2F;1.0&#x2F;\">http://creativecommons.org/publicdomain/mark/1.0/</a>"
+                },
+                {
+                    "label": "Subject",
+                    "value": "火事"
+                },
+                {
+                    "label": "Extent",
+                    "value": [
+                        "冊子",
+                        "絵葉書"
+                    ]
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "火事の後に出された写真を葉書にしたもの",
+                        "大正2年2月20日"
+                    ]
+                },
+                {
+                    "label": "shortDescription",
+                    "value": "火消しの様子"
+                },
+                {
+                    "label": "Relation",
+                    "value": "<a class=\"uri-value-link\" target=\"_blank\" href=\"https&#x3A;&#x2F;&#x2F;diyhistory.org&#x2F;public&#x2F;omekac&#x2F;admin&#x2F;collections&#x2F;26&#x2F;annotate\">https://diyhistory.org/public/omekac/admin/collections/26/annotate</a>"
+                },
+                {
+                    "label": "Instructional Method",
+                    "value": "test"
+                }
+            ],
+            "related": "https://www.kanzaki.com/works/2016/pub/image-annotator?u=https://nakamura196.github.io/dataset_dalab/iiif/23/manifest.json",
+            "seeAlso": "https://nakamura196.github.io/dataset_dalab/api/items/23.json",
+            "thumbnail": "https://nakamura196.github.io/dataset_dalab/files/medium/9858d80adfb0858b1c0d9815b331d436bfc25d2f.jpg"
+        },
+        {
+            "@id": "https://nakamura196.github.io/dataset_dalab/iiif/15/manifest.json",
+            "attribution": "東京文化資源会議",
+            "label": "東京酒商店一覧鑑",
+            "metadata": [
+                {
+                    "label": "Identifier",
+                    "value": "1-001"
+                },
+                {
+                    "label": "Title",
+                    "value": "東京酒商店一覧鑑"
+                },
+                {
+                    "label": "Spatial Coverage",
+                    "value": [
+                        "東京",
+                        "下谷",
+                        "本郷"
+                    ]
+                },
+                {
+                    "label": "Date Created",
+                    "value": "1890"
+                },
+                {
+                    "label": "Rights",
+                    "value": "<a class=\"uri-value-link\" target=\"_blank\" href=\"http&#x3A;&#x2F;&#x2F;creativecommons.org&#x2F;publicdomain&#x2F;mark&#x2F;1.0&#x2F;\">http://creativecommons.org/publicdomain/mark/1.0/</a>"
+                },
+                {
+                    "label": "Subject",
+                    "value": [
+                        "酒店",
+                        "番付"
+                    ]
+                },
+                {
+                    "label": "Description",
+                    "value": "番付表"
+                },
+                {
+                    "label": "shortDescription",
+                    "value": "こわれやすいので注意"
+                },
+                {
+                    "label": "Relation",
+                    "value": "<a class=\"uri-value-link\" target=\"_blank\" href=\"https&#x3A;&#x2F;&#x2F;diyhistory.org&#x2F;public&#x2F;omekac&#x2F;admin&#x2F;collections&#x2F;24&#x2F;annotate\">https://diyhistory.org/public/omekac/admin/collections/24/annotate</a>"
+                },
+                {
+                    "label": "Instructional Method",
+                    "value": "test"
+                }
+            ],
+            "related": "https://www.kanzaki.com/works/2016/pub/image-annotator?u=https://nakamura196.github.io/dataset_dalab/iiif/15/manifest.json",
+            "seeAlso": "https://nakamura196.github.io/dataset_dalab/api/items/15.json",
+            "thumbnail": "https://nakamura196.github.io/dataset_dalab/files/medium/5ff91c7fb4282d4a35d459583f438f9485006bb3.jpg"
+        },
+        {
+            "@id": "https://nakamura196.github.io/dataset_dalab/iiif/76/manifest.json",
+            "attribution": "東京文化資源会議",
+            "label": "[金属破片]",
+            "metadata": [
+                {
+                    "label": "Identifier",
+                    "value": "2_001"
+                },
+                {
+                    "label": "Title",
+                    "value": "[金属破片]<br />\r\n"
+                },
+                {
+                    "label": "Rights",
+                    "value": "<a class=\"uri-value-link\" target=\"_blank\" href=\"http&#x3A;&#x2F;&#x2F;creativecommons.org&#x2F;publicdomain&#x2F;mark&#x2F;1.0&#x2F;\">http://creativecommons.org/publicdomain/mark/1.0/</a>"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "識別番号（26061）あり",
+                        "砲弾の翼か"
+                    ]
+                },
+                {
+                    "label": "shortDescription",
+                    "value": [
+                        "勲章済み",
+                        "床に置かないこと"
+                    ]
+                },
+                {
+                    "label": "Relation",
+                    "value": "<a class=\"uri-value-link\" target=\"_blank\" href=\"https&#x3A;&#x2F;&#x2F;diyhistory.org&#x2F;public&#x2F;omekac&#x2F;admin&#x2F;collections&#x2F;30&#x2F;annotate\">https://diyhistory.org/public/omekac/admin/collections/30/annotate</a>"
+                },
+                {
+                    "label": "Instructional Method",
+                    "value": "test"
+                }
+            ],
+            "related": "https://www.kanzaki.com/works/2016/pub/image-annotator?u=https://nakamura196.github.io/dataset_dalab/iiif/76/manifest.json",
+            "seeAlso": "https://nakamura196.github.io/dataset_dalab/api/items/76.json",
+            "thumbnail": "https://nakamura196.github.io/dataset_dalab/files/medium/eb468e195aedeec339fba0cd465bbfc3fe894956.jpg"
+        }
+    ],
+    "vhint": "use-thumb"
+}

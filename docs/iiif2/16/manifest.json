@@ -1,0 +1,139 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/dataset_dalab/iiif/16/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京文化資源会議",
+    "label": "新板　江戸大繪圖　絵入",
+    "license": "http://creativecommons.org/licenses/by/4.0/",
+    "metadata": [
+        {
+            "label": "Identifier",
+            "value": "1-002"
+        },
+        {
+            "label": "Title",
+            "value": "新板　江戸大繪圖　絵入"
+        },
+        {
+            "label": "Spatial Coverage",
+            "value": "江戸"
+        },
+        {
+            "label": "Date Created",
+            "value": [
+                "1650代",
+                "延宝6年1月"
+            ]
+        },
+        {
+            "label": "Rights",
+            "value": "<a class=\"uri-value-link\" target=\"_blank\" href=\"http&#x3A;&#x2F;&#x2F;creativecommons.org&#x2F;publicdomain&#x2F;mark&#x2F;1.0&#x2F;\">http://creativecommons.org/publicdomain/mark/1.0/</a>"
+        },
+        {
+            "label": "Subject",
+            "value": [
+                "江戸",
+                "地図"
+            ]
+        },
+        {
+            "label": "Extent",
+            "value": "地図"
+        },
+        {
+            "label": "Description",
+            "value": "江戸の地図"
+        },
+        {
+            "label": "shortDescription",
+            "value": [
+                "壊れやすい",
+                "大版"
+            ]
+        },
+        {
+            "label": "Creator",
+            "value": "表紙屋市郎兵衛"
+        },
+        {
+            "label": "Relation",
+            "value": "<a class=\"uri-value-link\" target=\"_blank\" href=\"https&#x3A;&#x2F;&#x2F;diyhistory.org&#x2F;public&#x2F;omekac&#x2F;admin&#x2F;collections&#x2F;25&#x2F;annotate\">https://diyhistory.org/public/omekac/admin/collections/25/annotate</a>"
+        },
+        {
+            "label": "Instructional Method",
+            "value": "test"
+        }
+    ],
+    "related": {
+        "@id": "https://www.kanzaki.com/works/2016/pub/image-annotator?u=https://nakamura196.github.io/dataset_dalab/iiif/16/manifest.json",
+        "format": "text/html"
+    },
+    "seeAlso": {
+        "@id": "https://nakamura196.github.io/dataset_dalab/api/items/16.json",
+        "format": "application/ld+json"
+    },
+    "sequences": [
+        {
+            "@id": "https://diyhistory.org/public/dalab/iiif/16/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://diyhistory.org/public/dalab/iiif/16/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 8026,
+                    "images": [
+                        {
+                            "@id": "https://diyhistory.org/public/dalab/iiif/16/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://diyhistory.org/public/dalab/iiif/16/canvas/p1",
+                            "resource": {
+                                "@id": "https://nakamura196.github.io/dataset_dalab/files/original/cfc320ae4024db4104e45307db8d0500d3feb222.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 8026,
+                                "width": 5351
+                            }
+                        }
+                    ],
+                    "label": "1",
+                    "thumbnail": {
+                        "@id": "https://nakamura196.github.io/dataset_dalab/files/medium/cfc320ae4024db4104e45307db8d0500d3feb222.jpg"
+                    },
+                    "width": 5351
+                },
+                {
+                    "@id": "https://diyhistory.org/public/dalab/iiif/16/canvas/p2",
+                    "@type": "sc:Canvas",
+                    "height": 8026,
+                    "images": [
+                        {
+                            "@id": "https://diyhistory.org/public/dalab/iiif/16/annotation/p0002-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://diyhistory.org/public/dalab/iiif/16/canvas/p2",
+                            "resource": {
+                                "@id": "https://nakamura196.github.io/dataset_dalab/files/original/c1e5442f007eea830e25bef29bceaf0fc5afc8c6.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 8026,
+                                "width": 5351
+                            }
+                        }
+                    ],
+                    "label": "2",
+                    "thumbnail": {
+                        "@id": "https://nakamura196.github.io/dataset_dalab/files/medium/c1e5442f007eea830e25bef29bceaf0fc5afc8c6.jpg"
+                    },
+                    "width": 5351
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingDirection": "left-to-right",
+            "viewingHint": "paged"
+        }
+    ],
+    "thumbnail": {
+        "@id": "https://nakamura196.github.io/dataset_dalab/files/medium/cfc320ae4024db4104e45307db8d0500d3feb222.jpg"
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/dataset_dalab/iiif/7/manifest.json",
+    "@type": "sc:Manifest",
+    "attribution": "東京文化資源会議",
+    "label": "デジタルアーカイブ・ワークショップ・サンキューカード",
+    "license": "http://creativecommons.org/licenses/by/4.0/",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "デジタルアーカイブ・ワークショップ・サンキューカード"
+        },
+        {
+            "label": "Instructional Method",
+            "value": "test"
+        }
+    ],
+    "related": {
+        "@id": "https://www.kanzaki.com/works/2016/pub/image-annotator?u=https://nakamura196.github.io/dataset_dalab/iiif/7/manifest.json",
+        "format": "text/html"
+    },
+    "seeAlso": {
+        "@id": "https://nakamura196.github.io/dataset_dalab/api/items/7.json",
+        "format": "application/ld+json"
+    },
+    "sequences": [
+        {
+            "@id": "https://diyhistory.org/public/dalab/iiif/7/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://diyhistory.org/public/dalab/iiif/7/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1636,
+                    "images": [
+                        {
+                            "@id": "https://diyhistory.org/public/dalab/iiif/7/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://diyhistory.org/public/dalab/iiif/7/canvas/p1",
+                            "resource": {
+                                "@id": "https://nakamura196.github.io/dataset_dalab/files/original/39a36ef900fe95fe8b0c0bfd9dd306a8251366c9.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1636,
+                                "width": 2360
+                            }
+                        }
+                    ],
+                    "label": "1",
+                    "thumbnail": {
+                        "@id": "https://nakamura196.github.io/dataset_dalab/files/medium/39a36ef900fe95fe8b0c0bfd9dd306a8251366c9.jpg"
+                    },
+                    "width": 2360
+                }
+            ],
+            "label": "Current Page Order",
+            "viewingDirection": "left-to-right",
+            "viewingHint": "non-paged"
+        }
+    ],
+    "thumbnail": {
+        "@id": "https://nakamura196.github.io/dataset_dalab/files/medium/39a36ef900fe95fe8b0c0bfd9dd306a8251366c9.jpg"
+    }
+}

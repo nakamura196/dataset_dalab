@@ -1,0 +1,480 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/dataset_dalab/iiif/top_full.json",
+    "@type": "sc:Collection",
+    "manifests": [
+        {
+            "@id": "https://diyhistory.org/public/dalab/iiif/9/manifest",
+            "attribution": "東京文化資源会議",
+            "label": "デジタルアーカイブ・ワークショップ・ポスター",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "デジタルアーカイブ・ワークショップ・ポスター"
+                },
+                {
+                    "label": "Instructional Method",
+                    "value": "test"
+                }
+            ],
+            "related": "https://diyhistory.org/public/dalab/s/20200201/item/9",
+            "seeAlso": "https://diyhistory.org/public/dalab/api/items/9",
+            "thumbnail": "https://diyhistory.org/public/dalab/iiif-img/14/full/200,200/0/default.jpg"
+        },
+        {
+            "@id": "https://diyhistory.org/public/dalab/iiif/7/manifest",
+            "attribution": "東京文化資源会議",
+            "label": "デジタルアーカイブ・ワークショップ・サンキューカード",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "value": "デジタルアーカイブ・ワークショップ・サンキューカード"
+                },
+                {
+                    "label": "Instructional Method",
+                    "value": "test"
+                }
+            ],
+            "related": "https://diyhistory.org/public/dalab/s/20200201/item/7",
+            "seeAlso": "https://diyhistory.org/public/dalab/api/items/7",
+            "thumbnail": "https://diyhistory.org/public/dalab/iiif-img/8/full/200,200/0/default.jpg"
+        },
+        {
+            "@id": "https://diyhistory.org/public/dalab/iiif/16/manifest",
+            "attribution": "東京文化資源会議",
+            "label": "新板　江戸大繪圖　絵入",
+            "metadata": [
+                {
+                    "label": "Identifier",
+                    "value": "1-002"
+                },
+                {
+                    "label": "Title",
+                    "value": "新板　江戸大繪圖　絵入"
+                },
+                {
+                    "label": "Spatial Coverage",
+                    "value": "江戸"
+                },
+                {
+                    "label": "Date Created",
+                    "value": [
+                        "1650代",
+                        "延宝6年1月"
+                    ]
+                },
+                {
+                    "label": "Rights",
+                    "value": "<a class=\"uri-value-link\" target=\"_blank\" href=\"http&#x3A;&#x2F;&#x2F;creativecommons.org&#x2F;publicdomain&#x2F;mark&#x2F;1.0&#x2F;\">http://creativecommons.org/publicdomain/mark/1.0/</a>"
+                },
+                {
+                    "label": "Subject",
+                    "value": [
+                        "江戸",
+                        "地図"
+                    ]
+                },
+                {
+                    "label": "Extent",
+                    "value": "地図"
+                },
+                {
+                    "label": "Description",
+                    "value": "江戸の地図"
+                },
+                {
+                    "label": "shortDescription",
+                    "value": [
+                        "壊れやすい",
+                        "大版"
+                    ]
+                },
+                {
+                    "label": "Creator",
+                    "value": "表紙屋市郎兵衛"
+                },
+                {
+                    "label": "Relation",
+                    "value": "<a class=\"uri-value-link\" target=\"_blank\" href=\"https&#x3A;&#x2F;&#x2F;diyhistory.org&#x2F;public&#x2F;omekac&#x2F;admin&#x2F;collections&#x2F;25&#x2F;annotate\">https://diyhistory.org/public/omekac/admin/collections/25/annotate</a>"
+                },
+                {
+                    "label": "Instructional Method",
+                    "value": "test"
+                }
+            ],
+            "related": "https://diyhistory.org/public/dalab/s/20200201/item/16",
+            "seeAlso": "https://diyhistory.org/public/dalab/api/items/16",
+            "thumbnail": "https://diyhistory.org/public/dalab/iiif-img/24/full/200,200/0/default.jpg"
+        },
+        {
+            "@id": "https://diyhistory.org/public/dalab/iiif/17/manifest",
+            "attribution": "東京文化資源会議",
+            "label": "明暦開板新添江戸図",
+            "metadata": [
+                {
+                    "label": "Identifier",
+                    "value": "3_001"
+                },
+                {
+                    "label": "Title",
+                    "value": "明暦開板新添江戸図"
+                },
+                {
+                    "label": "Spatial Coverage",
+                    "value": "江戸"
+                },
+                {
+                    "label": "Date Created",
+                    "value": [
+                        "明暦3",
+                        "1659-01"
+                    ]
+                },
+                {
+                    "label": "Rights",
+                    "value": "<a class=\"uri-value-link\" target=\"_blank\" href=\"http&#x3A;&#x2F;&#x2F;creativecommons.org&#x2F;publicdomain&#x2F;mark&#x2F;1.0&#x2F;\">http://creativecommons.org/publicdomain/mark/1.0/</a>"
+                },
+                {
+                    "label": "Subject",
+                    "value": [
+                        "江戸",
+                        "地図"
+                    ]
+                },
+                {
+                    "label": "Extent",
+                    "value": "地図"
+                },
+                {
+                    "label": "Description",
+                    "value": "江戸の地図（明暦の火事の前）<br />\r\n出版されたのは火事のあと"
+                },
+                {
+                    "label": "Relation",
+                    "value": "<a class=\"uri-value-link\" target=\"_blank\" href=\"https&#x3A;&#x2F;&#x2F;diyhistory.org&#x2F;public&#x2F;omekac&#x2F;admin&#x2F;collections&#x2F;29&#x2F;annotate\">https://diyhistory.org/public/omekac/admin/collections/29/annotate</a>"
+                },
+                {
+                    "label": "Instructional Method",
+                    "value": "test"
+                }
+            ],
+            "related": "https://diyhistory.org/public/dalab/s/20200201/item/17",
+            "seeAlso": "https://diyhistory.org/public/dalab/api/items/17",
+            "thumbnail": "https://diyhistory.org/public/dalab/iiif-img/51/full/200,200/0/default.jpg"
+        },
+        {
+            "@id": "https://diyhistory.org/public/dalab/iiif/26/manifest",
+            "attribution": "東京文化資源会議",
+            "label": "（千代田区関連刷物資料）",
+            "metadata": [
+                {
+                    "label": "Identifier",
+                    "value": "1_005"
+                },
+                {
+                    "label": "Title",
+                    "value": "（千代田区関連刷物資料）"
+                },
+                {
+                    "label": "Spatial Coverage",
+                    "value": "千代田区"
+                },
+                {
+                    "label": "Date Created",
+                    "value": "様々"
+                },
+                {
+                    "label": "Rights",
+                    "value": "<a class=\"uri-value-link\" target=\"_blank\" href=\"http&#x3A;&#x2F;&#x2F;creativecommons.org&#x2F;publicdomain&#x2F;mark&#x2F;1.0&#x2F;\">http://creativecommons.org/publicdomain/mark/1.0/</a>"
+                },
+                {
+                    "label": "Extent",
+                    "value": [
+                        "クリアファイルに入っている",
+                        "刷物"
+                    ]
+                },
+                {
+                    "label": "shortDescription",
+                    "value": [
+                        "PDだけデジタル化対象",
+                        "資料リストあり（撮影）"
+                    ]
+                },
+                {
+                    "label": "Relation",
+                    "value": "<a class=\"uri-value-link\" target=\"_blank\" href=\"https&#x3A;&#x2F;&#x2F;diyhistory.org&#x2F;public&#x2F;omekac&#x2F;admin&#x2F;collections&#x2F;28&#x2F;annotate\">https://diyhistory.org/public/omekac/admin/collections/28/annotate</a>"
+                },
+                {
+                    "label": "Instructional Method",
+                    "value": "test"
+                }
+            ],
+            "related": "https://diyhistory.org/public/dalab/s/20200201/item/26",
+            "seeAlso": "https://diyhistory.org/public/dalab/api/items/26",
+            "thumbnail": "https://diyhistory.org/public/dalab/iiif-img/60/full/200,200/0/default.jpg"
+        },
+        {
+            "@id": "https://diyhistory.org/public/dalab/iiif/81/manifest",
+            "attribution": "東京文化資源会議",
+            "label": "携帯用サイレン",
+            "metadata": [
+                {
+                    "label": "Identifier",
+                    "value": "2_002"
+                },
+                {
+                    "label": "Title",
+                    "value": "携帯用サイレン"
+                },
+                {
+                    "label": "Rights",
+                    "value": "<a class=\"uri-value-link\" target=\"_blank\" href=\"http&#x3A;&#x2F;&#x2F;creativecommons.org&#x2F;publicdomain&#x2F;mark&#x2F;1.0&#x2F;\">http://creativecommons.org/publicdomain/mark/1.0/</a>"
+                },
+                {
+                    "label": "Extent",
+                    "value": "金属"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "識別番号 16746",
+                        "製造メーカー：伊吹工業所"
+                    ]
+                },
+                {
+                    "label": "shortDescription",
+                    "value": [
+                        "燻蒸済み",
+                        "床に置かないこと"
+                    ]
+                },
+                {
+                    "label": "Relation",
+                    "value": "<a class=\"uri-value-link\" target=\"_blank\" href=\"https&#x3A;&#x2F;&#x2F;diyhistory.org&#x2F;public&#x2F;omekac&#x2F;admin&#x2F;collections&#x2F;31&#x2F;annotate\">https://diyhistory.org/public/omekac/admin/collections/31/annotate</a>"
+                },
+                {
+                    "label": "Instructional Method",
+                    "value": "test"
+                }
+            ],
+            "related": "https://diyhistory.org/public/dalab/s/20200201/item/81",
+            "seeAlso": "https://diyhistory.org/public/dalab/api/items/81",
+            "thumbnail": "https://diyhistory.org/public/dalab/iiif-img/82/full/200,200/0/default.jpg"
+        },
+        {
+            "@id": "https://diyhistory.org/public/dalab/iiif/88/manifest",
+            "attribution": "東京文化資源会議",
+            "label": "カンバス地　立ち体　バッグ",
+            "metadata": [
+                {
+                    "label": "Identifier",
+                    "value": "2_003"
+                },
+                {
+                    "label": "Title",
+                    "value": "カンバス地　立ち体　バッグ"
+                },
+                {
+                    "label": "Rights",
+                    "value": "<a class=\"uri-value-link\" target=\"_blank\" href=\"http&#x3A;&#x2F;&#x2F;creativecommons.org&#x2F;publicdomain&#x2F;mark&#x2F;1.0&#x2F;\">http://creativecommons.org/publicdomain/mark/1.0/</a>"
+                },
+                {
+                    "label": "Extent",
+                    "value": [
+                        "カンバス布",
+                        "皮",
+                        "金属"
+                    ]
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "弾薬ケースか",
+                        "「駿」（？）、「図」と朱書き"
+                    ]
+                },
+                {
+                    "label": "shortDescription",
+                    "value": [
+                        "番号：16746",
+                        "燻蒸済み（床に置かないこと）",
+                        "公開不可"
+                    ]
+                },
+                {
+                    "label": "Instructional Method",
+                    "value": "test"
+                }
+            ],
+            "related": "https://diyhistory.org/public/dalab/s/20200201/item/88",
+            "seeAlso": "https://diyhistory.org/public/dalab/api/items/88",
+            "thumbnail": "https://diyhistory.org/public/dalab/iiif-img/89/full/200,200/0/default.jpg"
+        },
+        {
+            "@id": "https://diyhistory.org/public/dalab/iiif/23/manifest",
+            "attribution": "東京文化資源会議",
+            "label": "神田大火絵葉書",
+            "metadata": [
+                {
+                    "label": "Identifier",
+                    "value": "4_001"
+                },
+                {
+                    "label": "Title",
+                    "value": "神田大火絵葉書"
+                },
+                {
+                    "label": "Spatial Coverage",
+                    "value": "神田"
+                },
+                {
+                    "label": "Date Created",
+                    "value": [
+                        "大正2",
+                        "1913"
+                    ]
+                },
+                {
+                    "label": "Rights",
+                    "value": "<a class=\"uri-value-link\" target=\"_blank\" href=\"http&#x3A;&#x2F;&#x2F;creativecommons.org&#x2F;publicdomain&#x2F;mark&#x2F;1.0&#x2F;\">http://creativecommons.org/publicdomain/mark/1.0/</a>"
+                },
+                {
+                    "label": "Subject",
+                    "value": "火事"
+                },
+                {
+                    "label": "Extent",
+                    "value": [
+                        "冊子",
+                        "絵葉書"
+                    ]
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "火事の後に出された写真を葉書にしたもの",
+                        "大正2年2月20日"
+                    ]
+                },
+                {
+                    "label": "shortDescription",
+                    "value": "火消しの様子"
+                },
+                {
+                    "label": "Relation",
+                    "value": "<a class=\"uri-value-link\" target=\"_blank\" href=\"https&#x3A;&#x2F;&#x2F;diyhistory.org&#x2F;public&#x2F;omekac&#x2F;admin&#x2F;collections&#x2F;26&#x2F;annotate\">https://diyhistory.org/public/omekac/admin/collections/26/annotate</a>"
+                },
+                {
+                    "label": "Instructional Method",
+                    "value": "test"
+                }
+            ],
+            "related": "https://diyhistory.org/public/dalab/s/20200201/item/23",
+            "seeAlso": "https://diyhistory.org/public/dalab/api/items/23",
+            "thumbnail": "https://diyhistory.org/public/dalab/iiif-img/27/full/200,200/0/default.jpg"
+        },
+        {
+            "@id": "https://diyhistory.org/public/dalab/iiif/15/manifest",
+            "attribution": "東京文化資源会議",
+            "label": "東京酒商店一覧鑑",
+            "metadata": [
+                {
+                    "label": "Identifier",
+                    "value": "1-001"
+                },
+                {
+                    "label": "Title",
+                    "value": "東京酒商店一覧鑑"
+                },
+                {
+                    "label": "Spatial Coverage",
+                    "value": [
+                        "東京",
+                        "下谷",
+                        "本郷"
+                    ]
+                },
+                {
+                    "label": "Date Created",
+                    "value": "1890"
+                },
+                {
+                    "label": "Rights",
+                    "value": "<a class=\"uri-value-link\" target=\"_blank\" href=\"http&#x3A;&#x2F;&#x2F;creativecommons.org&#x2F;publicdomain&#x2F;mark&#x2F;1.0&#x2F;\">http://creativecommons.org/publicdomain/mark/1.0/</a>"
+                },
+                {
+                    "label": "Subject",
+                    "value": [
+                        "酒店",
+                        "番付"
+                    ]
+                },
+                {
+                    "label": "Description",
+                    "value": "番付表"
+                },
+                {
+                    "label": "shortDescription",
+                    "value": "こわれやすいので注意"
+                },
+                {
+                    "label": "Relation",
+                    "value": "<a class=\"uri-value-link\" target=\"_blank\" href=\"https&#x3A;&#x2F;&#x2F;diyhistory.org&#x2F;public&#x2F;omekac&#x2F;admin&#x2F;collections&#x2F;24&#x2F;annotate\">https://diyhistory.org/public/omekac/admin/collections/24/annotate</a>"
+                },
+                {
+                    "label": "Instructional Method",
+                    "value": "test"
+                }
+            ],
+            "related": "https://diyhistory.org/public/dalab/s/20200201/item/15",
+            "seeAlso": "https://diyhistory.org/public/dalab/api/items/15",
+            "thumbnail": "https://diyhistory.org/public/dalab/iiif-img/19/full/200,200/0/default.jpg"
+        },
+        {
+            "@id": "https://diyhistory.org/public/dalab/iiif/76/manifest",
+            "attribution": "東京文化資源会議",
+            "label": "[金属破片]",
+            "metadata": [
+                {
+                    "label": "Identifier",
+                    "value": "2_001"
+                },
+                {
+                    "label": "Title",
+                    "value": "[金属破片]<br />\r\n"
+                },
+                {
+                    "label": "Rights",
+                    "value": "<a class=\"uri-value-link\" target=\"_blank\" href=\"http&#x3A;&#x2F;&#x2F;creativecommons.org&#x2F;publicdomain&#x2F;mark&#x2F;1.0&#x2F;\">http://creativecommons.org/publicdomain/mark/1.0/</a>"
+                },
+                {
+                    "label": "Description",
+                    "value": [
+                        "識別番号（26061）あり",
+                        "砲弾の翼か"
+                    ]
+                },
+                {
+                    "label": "shortDescription",
+                    "value": [
+                        "勲章済み",
+                        "床に置かないこと"
+                    ]
+                },
+                {
+                    "label": "Relation",
+                    "value": "<a class=\"uri-value-link\" target=\"_blank\" href=\"https&#x3A;&#x2F;&#x2F;diyhistory.org&#x2F;public&#x2F;omekac&#x2F;admin&#x2F;collections&#x2F;30&#x2F;annotate\">https://diyhistory.org/public/omekac/admin/collections/30/annotate</a>"
+                },
+                {
+                    "label": "Instructional Method",
+                    "value": "test"
+                }
+            ],
+            "related": "https://diyhistory.org/public/dalab/s/20200201/item/76",
+            "seeAlso": "https://diyhistory.org/public/dalab/api/items/76",
+            "thumbnail": "https://diyhistory.org/public/dalab/iiif-img/77/full/200,200/0/default.jpg"
+        }
+    ],
+    "vhint": "use-thumb"
+}
