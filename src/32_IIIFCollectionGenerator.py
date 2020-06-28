@@ -25,6 +25,7 @@ for dir in dirs:
 
         manifests.append({
             "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@type": "sc:Manifest",
             "@id" : obj["@id"].replace("/iiif/", "/"+dir+"/"),
             "thumbnail" : obj["thumbnail"]["@id"],
             "label" : obj["label"]        
@@ -32,6 +33,7 @@ for dir in dirs:
 
         manifests_full.append({
             "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@type": "sc:Manifest",
             "@id" : obj["@id"].replace("/iiif/", "/"+dir+"/"),
             "thumbnail" : obj["thumbnail"]["@id"],
             "label" : obj["label"],

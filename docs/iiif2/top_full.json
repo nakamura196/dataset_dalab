@@ -6,6 +6,7 @@
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/dataset_dalab/iiif2/9/manifest.json",
+            "@type": "sc:Manifest",
             "attribution": "東京文化資源会議",
             "label": "デジタルアーカイブ・ワークショップ・ポスター",
             "metadata": [
@@ -25,6 +26,7 @@
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/dataset_dalab/iiif2/7/manifest.json",
+            "@type": "sc:Manifest",
             "attribution": "東京文化資源会議",
             "label": "デジタルアーカイブ・ワークショップ・サンキューカード",
             "metadata": [
@@ -44,6 +46,7 @@
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/dataset_dalab/iiif2/16/manifest.json",
+            "@type": "sc:Manifest",
             "attribution": "東京文化資源会議",
             "label": "新板　江戸大繪圖　絵入",
             "metadata": [
@@ -112,6 +115,7 @@
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/dataset_dalab/iiif2/17/manifest.json",
+            "@type": "sc:Manifest",
             "attribution": "東京文化資源会議",
             "label": "明暦開板新添江戸図",
             "metadata": [
@@ -169,6 +173,7 @@
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/dataset_dalab/iiif2/26/manifest.json",
+            "@type": "sc:Manifest",
             "attribution": "東京文化資源会議",
             "label": "（千代田区関連刷物資料）",
             "metadata": [
@@ -222,6 +227,7 @@
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/dataset_dalab/iiif2/81/manifest.json",
+            "@type": "sc:Manifest",
             "attribution": "東京文化資源会議",
             "label": "携帯用サイレン",
             "metadata": [
@@ -271,6 +277,7 @@
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/dataset_dalab/iiif2/88/manifest.json",
+            "@type": "sc:Manifest",
             "attribution": "東京文化資源会議",
             "label": "カンバス地　立ち体　バッグ",
             "metadata": [
@@ -321,6 +328,7 @@
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/dataset_dalab/iiif2/23/manifest.json",
+            "@type": "sc:Manifest",
             "attribution": "東京文化資源会議",
             "label": "神田大火絵葉書",
             "metadata": [
@@ -385,6 +393,7 @@
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/dataset_dalab/iiif2/15/manifest.json",
+            "@type": "sc:Manifest",
             "attribution": "東京文化資源会議",
             "label": "東京酒商店一覧鑑",
             "metadata": [
@@ -443,6 +452,7 @@
         {
             "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://nakamura196.github.io/dataset_dalab/iiif2/76/manifest.json",
+            "@type": "sc:Manifest",
             "attribution": "東京文化資源会議",
             "label": "[金属破片]",
             "metadata": [
