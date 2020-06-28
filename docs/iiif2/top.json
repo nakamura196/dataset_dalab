@@ -4,52 +4,62 @@
     "@type": "sc:Collection",
     "manifests": [
         {
-            "@id": "https://nakamura196.github.io/dataset_dalab/iiif/9/manifest.json",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/dataset_dalab/iiif2/9/manifest.json",
             "label": "デジタルアーカイブ・ワークショップ・ポスター",
             "thumbnail": "https://nakamura196.github.io/dataset_dalab/files/medium/4afbc04a7aac28801e69154a8857f03686148f43.jpg"
         },
         {
-            "@id": "https://nakamura196.github.io/dataset_dalab/iiif/7/manifest.json",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/dataset_dalab/iiif2/7/manifest.json",
             "label": "デジタルアーカイブ・ワークショップ・サンキューカード",
             "thumbnail": "https://nakamura196.github.io/dataset_dalab/files/medium/39a36ef900fe95fe8b0c0bfd9dd306a8251366c9.jpg"
         },
         {
-            "@id": "https://nakamura196.github.io/dataset_dalab/iiif/16/manifest.json",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/dataset_dalab/iiif2/16/manifest.json",
             "label": "新板　江戸大繪圖　絵入",
             "thumbnail": "https://nakamura196.github.io/dataset_dalab/files/medium/cfc320ae4024db4104e45307db8d0500d3feb222.jpg"
         },
         {
-            "@id": "https://nakamura196.github.io/dataset_dalab/iiif/17/manifest.json",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/dataset_dalab/iiif2/17/manifest.json",
             "label": "明暦開板新添江戸図",
             "thumbnail": "https://nakamura196.github.io/dataset_dalab/files/medium/7e91e17ae0915957fffa67273acb51b50863c6d9.jpg"
         },
         {
-            "@id": "https://nakamura196.github.io/dataset_dalab/iiif/26/manifest.json",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/dataset_dalab/iiif2/26/manifest.json",
             "label": "（千代田区関連刷物資料）",
             "thumbnail": "https://nakamura196.github.io/dataset_dalab/files/medium/c42c418c928fbebbf8400f097193073699a4be1d.jpg"
         },
         {
-            "@id": "https://nakamura196.github.io/dataset_dalab/iiif/81/manifest.json",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/dataset_dalab/iiif2/81/manifest.json",
             "label": "携帯用サイレン",
             "thumbnail": "https://nakamura196.github.io/dataset_dalab/files/medium/c938a81b42a2b7884ec7cc3a2e943d62da1eed29.jpg"
         },
         {
-            "@id": "https://nakamura196.github.io/dataset_dalab/iiif/88/manifest.json",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/dataset_dalab/iiif2/88/manifest.json",
             "label": "カンバス地　立ち体　バッグ",
             "thumbnail": "https://nakamura196.github.io/dataset_dalab/files/medium/65b3d1703a40da56d7122feda2fb04a9b50649b4.jpg"
         },
         {
-            "@id": "https://nakamura196.github.io/dataset_dalab/iiif/23/manifest.json",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/dataset_dalab/iiif2/23/manifest.json",
             "label": "神田大火絵葉書",
             "thumbnail": "https://nakamura196.github.io/dataset_dalab/files/medium/9858d80adfb0858b1c0d9815b331d436bfc25d2f.jpg"
         },
         {
-            "@id": "https://nakamura196.github.io/dataset_dalab/iiif/15/manifest.json",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/dataset_dalab/iiif2/15/manifest.json",
             "label": "東京酒商店一覧鑑",
             "thumbnail": "https://nakamura196.github.io/dataset_dalab/files/medium/5ff91c7fb4282d4a35d459583f438f9485006bb3.jpg"
         },
         {
-            "@id": "https://nakamura196.github.io/dataset_dalab/iiif/76/manifest.json",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "https://nakamura196.github.io/dataset_dalab/iiif2/76/manifest.json",
             "label": "[金属破片]",
             "thumbnail": "https://nakamura196.github.io/dataset_dalab/files/medium/eb468e195aedeec339fba0cd465bbfc3fe894956.jpg"
         }

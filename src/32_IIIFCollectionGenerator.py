@@ -24,13 +24,15 @@ for dir in dirs:
             obj = json.load(f)
 
         manifests.append({
-            "@id" : obj["@id"],
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id" : obj["@id"].replace("/iiif/", "/"+dir+"/"),
             "thumbnail" : obj["thumbnail"]["@id"],
             "label" : obj["label"]        
         })
 
         manifests_full.append({
-            "@id" : obj["@id"],
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id" : obj["@id"].replace("/iiif/", "/"+dir+"/"),
             "thumbnail" : obj["thumbnail"]["@id"],
             "label" : obj["label"],
             "metadata" : obj["metadata"],

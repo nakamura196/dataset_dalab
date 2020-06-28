@@ -4,6 +4,7 @@
     "@type": "sc:Collection",
     "manifests": [
         {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://diyhistory.org/public/dalab/iiif/9/manifest",
             "attribution": "東京文化資源会議",
             "label": "デジタルアーカイブ・ワークショップ・ポスター",
@@ -22,6 +23,7 @@
             "thumbnail": "https://diyhistory.org/public/dalab/iiif-img/14/full/200,200/0/default.jpg"
         },
         {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://diyhistory.org/public/dalab/iiif/7/manifest",
             "attribution": "東京文化資源会議",
             "label": "デジタルアーカイブ・ワークショップ・サンキューカード",
@@ -40,6 +42,7 @@
             "thumbnail": "https://diyhistory.org/public/dalab/iiif-img/8/full/200,200/0/default.jpg"
         },
         {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://diyhistory.org/public/dalab/iiif/16/manifest",
             "attribution": "東京文化資源会議",
             "label": "新板　江戸大繪圖　絵入",
@@ -107,6 +110,7 @@
             "thumbnail": "https://diyhistory.org/public/dalab/iiif-img/24/full/200,200/0/default.jpg"
         },
         {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://diyhistory.org/public/dalab/iiif/17/manifest",
             "attribution": "東京文化資源会議",
             "label": "明暦開板新添江戸図",
@@ -163,6 +167,7 @@
             "thumbnail": "https://diyhistory.org/public/dalab/iiif-img/51/full/200,200/0/default.jpg"
         },
         {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://diyhistory.org/public/dalab/iiif/26/manifest",
             "attribution": "東京文化資源会議",
             "label": "（千代田区関連刷物資料）",
@@ -215,6 +220,7 @@
             "thumbnail": "https://diyhistory.org/public/dalab/iiif-img/60/full/200,200/0/default.jpg"
         },
         {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://diyhistory.org/public/dalab/iiif/81/manifest",
             "attribution": "東京文化資源会議",
             "label": "携帯用サイレン",
@@ -263,6 +269,7 @@
             "thumbnail": "https://diyhistory.org/public/dalab/iiif-img/82/full/200,200/0/default.jpg"
         },
         {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://diyhistory.org/public/dalab/iiif/88/manifest",
             "attribution": "東京文化資源会議",
             "label": "カンバス地　立ち体　バッグ",
@@ -312,6 +319,7 @@
             "thumbnail": "https://diyhistory.org/public/dalab/iiif-img/89/full/200,200/0/default.jpg"
         },
         {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://diyhistory.org/public/dalab/iiif/23/manifest",
             "attribution": "東京文化資源会議",
             "label": "神田大火絵葉書",
@@ -375,6 +383,7 @@
             "thumbnail": "https://diyhistory.org/public/dalab/iiif-img/27/full/200,200/0/default.jpg"
         },
         {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://diyhistory.org/public/dalab/iiif/15/manifest",
             "attribution": "東京文化資源会議",
             "label": "東京酒商店一覧鑑",
@@ -432,6 +441,7 @@
             "thumbnail": "https://diyhistory.org/public/dalab/iiif-img/19/full/200,200/0/default.jpg"
         },
         {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
             "@id": "https://diyhistory.org/public/dalab/iiif/76/manifest",
             "attribution": "東京文化資源会議",
             "label": "[金属破片]",
